@@ -1,0 +1,256 @@
+﻿Transparent|透明
+Gravel|砂利
+Boulder A|岩A
+Boulder B|岩B
+Boulder C|岩C
+Boulder D|岩D
+Coral A|珊瑚A
+Coral B|珊瑚B
+Sign A|立て札A
+Boulder E|岩E
+Boulder E|岩E
+Boulder F|岩F
+Boulder F|岩F
+Boulder D|岩D
+Coral C|珊瑚C
+Coral D|珊瑚D
+Sign B|立て札B
+Boulder E|岩E
+Boulder E|岩E
+Boulder F|岩F
+Boulder F|岩F
+Boulder G|岩G
+Coral E|珊瑚E
+Coral F|珊瑚F
+Wall A (Top)|壁A（上端）
+Wall A (Top)|壁A（上端）
+Wall A (Top)|壁A（上端）
+Wall A (Top)|壁A（上端）
+Ledge A (Top)|段差A（上端）
+Ledge A (Top)|段差A（上端）
+Ledge A (Top)|段差A（上端）
+Ledge A (Top)|段差A（上端）
+Wall A (Bottom)|壁A（下端）
+Wall A (Bottom)|壁A（下端）
+Wall A (Bottom)|壁A（下端）
+Wall A (Bottom, Shadow, Center)|壁A（下端・影・中央）
+Wall A (Bottom, Shadow, Right)|壁A（下端・影・右）
+Wall A (Bottom, Water)|壁A（下端・水場）
+Wall A (Bottom, Water)|壁A（下端・水場）
+Wall A (Bottom, Water)|壁A（下端・水場）
+Wall A (Bottom, Shallow Water)|壁A（下端・浅い水場）
+Wall A (Bottom, Shallow Water)|壁A（下端・浅い水場）
+Wall A (Bottom, Shallow Water)|壁A（下端・浅い水場）
+Wall A (Bottom, Shallow Water, Shadow, Center)|壁A（下端・浅い水場・影・中央）
+Wall A (Bottom, Shallow Water, Shadow, Right)|壁A（下端・浅い水場・影・右）
+Wall A (Bottom, Water)|壁A（下端・水場）
+Wall A (Bottom, Water)|壁A（下端・水場）
+Wall A (Bottom, Water)|壁A（下端・水場）
+Wall B (Top)|壁B（上端）
+Wall B (Top)|壁B（上端）
+Wall B (Top)|壁B（上端）
+Wall Decoration I (Bottom)|壁装飾I（下端）
+Wall Decoration I (Bottom)|壁装飾I（下端）
+Wall Decoration I (Bottom)|壁装飾I（下端）
+Boulder B (Underwater)|岩B（水中）
+Boulder D (Underwater)|岩D（水中）
+Wall B|壁B
+Wall B|壁B
+Wall B|壁B
+Wall Decoration O|壁装飾O
+Wall Decoration P|壁装飾P
+Boulder A (Underwater)|岩A（水中）
+Boulder C (Underwater)|岩C（水中）
+Boulder D (Underwater)|岩D（水中）
+Wall B|壁B
+Wall B|壁B
+Wall B|壁B
+Shadow|影
+Wall B (Shadow, Center)|壁B（影・中央）
+Wall B (Shadow, Right)|壁B（影・右）
+Boulder D (Water)|岩D（水場）
+Boulder D (Shallow Water)|岩D（浅い水場）
+Wall B|壁B
+Wall B|壁B
+Wall B|壁B
+Shadow (Impassable)|影（通行不可）
+Wall Decoration Q|壁装飾Q
+Wall Decoration R|壁装飾R
+Boulder D (Water)|岩D（水場）
+Boulder D (Shallow Water)|岩D（浅い水場）
+Wall B|壁B
+Wall B|壁B
+Wall B|壁B
+Shadow|影
+Wall Decoration Q|壁装飾Q
+Wall Decoration R|壁装飾R
+Ledge A (Top, Shadow)|段差A（上端・影）
+Ledge A (Top, Shadow)|段差A（上端・影）
+Stairs A|階段A
+Stairs A|階段A
+Stairs A|階段A
+Stairs B|階段B
+Shadow (Stairs B)|階段の影
+Natural Bridge (V)|自然の橋（縦）
+Natural Bridge (V)|自然の橋（縦）
+Ledge A (Top, Shadow)|段差A（上端・影）
+Stairs A (Bottom)|階段A（下端）
+Stairs A (Bottom)|階段A（下端）
+Stairs A (Bottom)|階段A（下端）
+Stairs B (Bottom)|階段B（下端）
+Shadow (Stairs B)|階段の影
+Natural Bridge (V)|自然の橋（縦）
+Natural Bridge (V)|自然の橋（縦）
+Ledge A (Top, Shadow)|段差A（上端・影）
+Stairs A (Bottom, Shallow Water)|階段A（下端・浅い水場）
+Stairs A (Bottom, Shallow Water)|階段A（下端・浅い水場）
+Stairs A (Bottom, Shallow Water)|階段A（下端・浅い水場）
+Stairs B (Bottom, Shallow Water)|階段B（下端・浅い水場）
+Shadow|影
+Natural Bridge (V)|自然の橋（縦）
+Natural Bridge (V)|自然の橋（縦）
+Natural Bridge (V, No Shadow)|自然の橋（縦・影なし）
+Natural Bridge (H)|自然の橋（横）
+Natural Bridge (H)|自然の橋（横）
+Natural Bridge (H)|自然の橋（横）
+Natural Bridge (H)|自然の橋（横）
+Wall Decoration S|壁装飾S
+Natural Bridge (V)|自然の橋（縦）
+Natural Bridge (V)|自然の橋（縦）
+Natural Bridge (V, No Shadow)|自然の橋（縦・影なし）
+|
+Natural Bridge (H)|自然の橋（横）
+Natural Bridge (H)|自然の橋（横）
+|
+Wall Decoration S|壁装飾S
+Natural Bridge (V)|自然の橋（縦）
+Natural Bridge (V)|自然の橋（縦）
+Natural Bridge (V, No Shadow)|自然の橋（縦・影なし）
+|
+Natural Bridge (H)|自然の橋（横）
+Natural Bridge (H)|自然の橋（横）
+Natural Bridge (H)|自然の橋（横）
+|
+Wall Decoration I (Lower Half D)|壁装飾I（下半分D）
+Wall Decoration I (Lower Half D)|壁装飾I（下半分D）
+Wall Decoration I (Lower Half D)|壁装飾I（下半分D）
+Natural Bridge (H)|自然の橋（横）
+Natural Bridge (H)|自然の橋（横）
+Natural Bridge (H)|自然の橋（横）
+Natural Bridge (H)|自然の橋（横）
+Natural Bridge (H)|自然の橋（横）
+Natural Bridge (H)|自然の橋（横）
+Natural Bridge (H)|自然の橋（横）
+Natural Bridge (H)|自然の橋（横）
+|
+Natural Bridge (H)|自然の橋（横）
+|
+Natural Bridge (H)|自然の橋（横）
+Shadow (Natural Bridge)|影（自然の橋）
+Shadow (Natural Bridge)|影（自然の橋）
+Natural Bridge (H)|自然の橋（横）
+|
+Entrance A|入口A
+Entrance A|入口A
+Entrance A|入口A
+Entrance B|入口B
+Entrance A|入口A
+Entrance A|入口A
+Entrance A|入口A
+Entrance B|入口B
+Entrance A (Moss)|入口A（苔）
+Entrance A (Moss)|入口A（苔）
+Entrance A (Moss)|入口A（苔）
+Entrance B (Moss)|入口B（苔）
+Entrance A|入口A
+Entrance A|入口A
+Entrance A|入口A
+Entrance B|入口B
+Light A (Ground)|地面の光A
+Light B (Ground)|地面の光B
+Light (Left Side)|左からの光
+Light (Right Side)|右からの光
+Entrance A (Light)|入口A（光）
+Entrance A (Light)|入口A（光）
+Entrance A (Light)|入口A（光）
+Entrance B (Light)|入口B（光）
+Light A (Ground)|地面の光A
+Light B (Ground)|地面の光B
+Light (Left Side)|左からの光
+Light (Right Side)|右からの光
+Entrance A (Light)|入口A（光）
+Entrance A (Light)|入口A（光）
+Entrance A (Light)|入口A（光）
+Entrance B (Light)|入口B（光）
+Light C (Ground)|地面の光C
+Light C (Ground)|地面の光C
+Light C (Ground)|地面の光C
+Light D (Ground)|地面の光D
+Light E (Ground)|地面の光E
+Light E (Ground)|地面の光E
+Light E (Ground)|地面の光E
+Light F (Ground)|地面の光F
+Stairs C (Up)|階段C（上り）
+Stairs C (Up)|階段C（上り）
+Stairs C (Up)|階段C（上り）
+Stairs D (Down)|階段D（下り）
+Stairs D (Down)|階段D（下り）
+Stairs D (Down)|階段D（下り）
+Chain|鎖
+Ladder|はしご
+Stairs C (Up)|階段C（上り）
+Stairs C (Up)|階段C（上り）
+Stairs C (Up)|階段C（上り）
+Stairs D (Down)|階段D（下り）
+Stairs D (Down)|階段D（下り）
+Stairs D (Down)|階段D（下り）
+Chain|鎖
+Ladder|はしご
+Stairs E (Up)|階段E（上り）
+Stairs E (Up)|階段E（上り）
+Stairs E (Up)|階段E（上り）
+Hole C|穴C
+Hole C|穴C
+Hole C|穴C
+Chain|鎖
+Ladder|はしご
+Stairs E (Up)|階段E（上り）
+Stairs E (Up)|階段E（上り）
+Stairs E (Up)|階段E（上り）
+Hole C|穴C
+Hole C|穴C
+Hole C|穴C
+Chain (Down)|鎖（下り）
+Ladder (Down)|はしご（下り）
+Depth Shadow A|奈落の影A
+|
+Depth Shadow A|奈落の影A
+Depth Shadow B|奈落の影B
+Light from the Depth A|地底からの光A
+Light from the Depth A|地底からの光A
+Light from the Depth A|地底からの光A
+Light from the Depth B|地底からの光B
+Depth Shadow A|奈落の影A
+Depth Shadow A|奈落の影A
+Depth Shadow A|奈落の影A
+Depth Shadow B|奈落の影B
+Light from the Depth A|地底からの光A
+Light from the Depth A|地底からの光A
+Light from the Depth A|地底からの光A
+Light from the Depth B|地底からの光B
+Depth Shadow A|奈落の影A
+Depth Shadow A|奈落の影A
+Depth Shadow A|奈落の影A
+Depth Shadow B|奈落の影B
+Light from the Depth A|地底からの光A
+Light from the Depth A|地底からの光A
+Light from the Depth A|地底からの光A
+Light from the Depth B|地底からの光B
+Shadow of the Ceiling|天井への影
+Depth Shadow A|奈落の影A
+Depth Shadow A|奈落の影A
+Depth Shadow B|奈落の影B
+Light G (Ground)|地面の光G
+Wall A (Sneak Through)|壁A（すり抜け）
+Wall A (Sneak Through)|壁A（すり抜け）
+Wall A (Sneak Through)|壁A（すり抜け）

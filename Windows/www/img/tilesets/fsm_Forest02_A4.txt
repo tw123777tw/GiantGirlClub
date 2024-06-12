@@ -1,0 +1,48 @@
+﻿Ledge A|段差A
+Ledge B|段差B
+Forest|森
+Forest|森
+Ledge C|段差C
+Forest|森
+Forest|森
+Forest|森
+Cliff A (Ledge A)|崖A（段差A）
+Cliff B (Ledge B)|崖B（段差B）
+Tree Trunk A (Myriad Roots)|木の幹A（無数の根）
+Tree Trunk A (Myriad Roots, No Shadow)|木の幹A（無数の根・影なし）
+Cliff C (Ledge C)|崖C（段差C）
+Tree Trunk B (Moss)|木の幹B（苔）
+Tree Trunk B (Myriad Roots)|木の幹B（無数の根）
+Tree Trunk B (Meadow)|木の幹B（草地）
+Stone Wall A|石の壁A
+Stone Wall B|石の壁B
+Ledge D|段差D
+|
+|
+|
+|
+|
+Stone Wall A|石の壁A
+Stone Wall B|石の壁B
+Cliff D (Ledge D, Hole)|崖D（段差D・穴）
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|

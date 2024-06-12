@@ -1,0 +1,128 @@
+﻿Darkness|暗闇
+Light|光
+Cobblestones A|石畳A
+Cobblestones B|石畳B
+Cobblestones C|石畳C
+Cobblestones D|石畳D
+Cobblestones E|石畳E
+Relief Floor Tile|レリーフ床
+Transparent|透明
+Ground J|床J
+Cobblestones A (Ruins)|石畳A（廃墟）
+Cobblestones B (Ruins)|石畳B（廃墟）
+Cobblestones C (Ruins)|石畳C（廃墟）
+Cobblestones D (Ruins)|石畳D（廃墟）
+Cobblestones E (Ruins)|石畳E（廃墟）
+Relief Floor Tile (Ruins)|レリーフ床（廃墟）
+Wall A|壁A
+Wall A|壁A
+Wall A|壁A
+Ledge A|段差A
+Ledge A|段差A
+Ledge A|段差A
+Ground A|床A
+Ledge A|段差A
+Wall A|壁A
+Wall A|壁A
+Wall A|壁A
+Ledge A|段差A
+Ledge A|段差A
+Ledge A|段差A
+Ledge A|段差A
+Ledge A|段差A
+Wall A|壁A
+Wall A|壁A
+Wall A|壁A
+Wall A|壁A
+Wall A|壁A
+Ledge A|段差A
+Ledge A|段差A
+Ledge A|段差A
+Wall A|壁A
+Wall A|壁A
+Wall A|壁A
+Wall A|壁A
+Wall A|壁A
+Ledge A (Shadow, Center)|段差A（影・中央）
+Ledge A (Shadow, Right)|段差A（影・右）
+Hole B|穴B
+Wall A (Bottom, Moss)|壁A（下端・苔）
+Wall A (Bottom, Moss)|壁A（下端・苔）
+Wall A (Bottom, Moss)|壁A（下端・苔）
+Wall A (Autotiles, Shadow, Center)|壁A（オートタイル用・影・中央）
+Wall A (Autotiles, Shadow, Right)|壁A（オートタイル用・影・右）
+Ledge A (Autotiles, Shadow, Center)|段差A（オートタイル用・影・中央）
+Ledge A (Autotiles, Shadow, Right)|段差A（オートタイル用・影・右）
+Wall Decoration A|壁装飾A
+Wall Decoration B|壁装飾B
+Wall Decoration C|壁装飾C
+Wall Decoration D|壁装飾D
+Wall Decoration E (Left)|壁装飾E（左）
+Wall Decoration E (Center)|壁装飾E（中央）
+Wall Decoration E (Right)|壁装飾E（右）
+Wall Decoration F|壁装飾F
+Wall Decoration G|壁装飾G
+Wall Decoration B (Lower Half A)|壁装飾B（下半分A）
+Wall Decoration H|壁装飾H
+Wall Decoration I|壁装飾I
+Wall Decoration I|壁装飾I
+Wall Decoration I|壁装飾I
+Wall Decoration I (Lower Half B, Moss)|壁装飾I（下半分B・苔）
+Wall Decoration I (Lower Half B, Moss)|壁装飾I（下半分B・苔）
+Wall Decoration I (Lower Half B, Moss)|壁装飾I（下半分B・苔）
+Wall Decoration B (Lower Half B, Moss)|壁装飾B（下半分B・苔）
+Wall Decoration G (Moss)|壁装飾G（苔）
+Wall Decoration I (Lower Half A)|壁装飾I（下半分A）
+Wall Decoration I (Lower Half A)|壁装飾I（下半分A）
+Wall Decoration I (Lower Half A)|壁装飾I（下半分A）
+Wall Decoration I (Lower Half C, Shallow Water)|壁装飾I（下半分C・浅い水場）
+Wall Decoration I (Lower Half C, Shallow Water)|壁装飾I（下半分C・浅い水場）
+Wall Decoration I (Lower Half C, Shallow Water)|壁装飾I（下半分C・浅い水場）
+Stairs A (Ledge A, Left)|階段A（段差A・左）
+Stairs A (Ledge A, Center)|階段A（段差A・中央）
+Stairs A (Ledge A, Right)|階段A（段差A・右）
+Stairs B (Ledge A)|階段B（段差A）
+Stairs A (Ledge A, Ruins, Left)|階段A（段差A・廃墟・左）
+Stairs A (Ledge A, Ruins, Center)|階段A（段差A・廃墟・中央）
+Stairs A (Ledge A, Ruins, Right)|階段A（段差A・廃墟・右）
+Stairs B (Ledge A, Ruins)|階段B（段差A・廃墟）
+Stairs A (Ledge A, Left)|階段A（段差A・左）
+Stairs A (Ledge A, Center)|階段A（段差A・中央）
+Stairs A (Ledge A, Right)|階段A（段差A・右）
+Stairs B (Ledge A)|階段B（段差A）
+Stairs A (Ledge A, Ruins, Left)|階段A（段差A・廃墟・左）
+Stairs A (Ledge A, Ruins, Center)|階段A（段差A・廃墟・中央）
+Stairs A (Ledge A, Ruins, Right)|階段A（段差A・廃墟・右）
+Stairs B (Ledge A, Ruins)|階段B（段差A・廃墟）
+Stairs A (Ledge A, Left)|階段A（段差A・左）
+Stairs A (Ledge A, Center)|階段A（段差A・中央）
+Stairs A (Ledge A, Right)|階段A（段差A・右）
+Stairs B (Ledge A)|階段B（段差A）
+Stairs A (Ledge A, Ruins, Left)|階段A（段差A・廃墟・左）
+Stairs A (Ledge A, Ruins, Center)|階段A（段差A・廃墟・中央）
+Stairs A (Ledge A, Ruins, Right)|階段A（段差A・廃墟・右）
+Stairs B (Ledge A, Ruins)|階段B（段差A・廃墟）
+Stairs A (Ledge A, Moss, Left)|階段A（段差A・苔・左）
+Stairs A (Ledge A, Moss, Center)|階段A（段差A・苔・中央）
+Stairs A (Ledge A, Moss, Right)|階段A（段差A・苔・右）
+Ground K|床K
+Stairs A (Ledge A, Moss, Ruins, Left)|階段A（段差A・苔・廃墟・左）
+Stairs A (Ledge A, Moss, Ruins, Center)|階段A（段差A・苔・廃墟・中央）
+Stairs A (Ledge A, Moss, Ruins, Right)|階段A（段差A・苔・廃墟・右）
+Ground L|床L
+Wall Decoration J|壁装飾J
+Wall Decoration J|壁装飾J
+Wall Decoration J|壁装飾J
+Wall Decoration J|壁装飾J
+Wall Decoration K|壁装飾K
+Wall Decoration L|壁装飾L
+Wall Decoration M|壁装飾M
+Wall Decoration N|壁装飾N
+Wall Decoration J|壁装飾J
+Wall Decoration J|壁装飾J
+Wall Decoration J|壁装飾J
+Wall Decoration J|壁装飾J
+Wall Decoration K|壁装飾K
+Wall Decoration L|壁装飾L
+Wall Decoration M|壁装飾M
+Wall Decoration N|壁装飾N

@@ -1,0 +1,48 @@
+﻿Ledge A|段差A
+Ledge B|段差B
+Forest A|森A
+Forest B|森B
+|
+|
+|
+|
+Cliff A (Ledge A)|崖A（段差A）
+Cliff B (Ledge B)|崖B（段差B）
+|
+|
+|
+|
+|
+|
+Interior Wall A|内装壁A
+Interior Wall B|内装壁B
+Interior Floor A|内装床A
+Interior Floor B|内装床B
+Interior Floor C|内装床C
+Interior Floor D|内装床D
+Rush Mat|ござ
+Dirt (Water C)|土（水場C）
+Interior Wall A|内装壁A
+Interior Wall B|内装壁B
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|

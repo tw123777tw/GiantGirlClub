@@ -1,0 +1,48 @@
+﻿Wall A|壁A
+Wall A|壁A
+Ledge A|段差A
+Ledge B|段差B
+|
+|
+|
+|
+Wall A|壁A
+Wall A (Moss)|壁A（苔）
+Wall A (Shallow Water)|壁A（浅い水場）
+Wall A (Hole)|壁A（穴）
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|

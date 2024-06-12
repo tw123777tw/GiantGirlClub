@@ -1,0 +1,256 @@
+﻿Stone Pillar A (Underwater)|石の柱A（水中）
+Stone Pillar B (Coral, Underwater)|石の柱B（水中・珊瑚付き）
+Stone Pillar C (Underwater)|石の柱C（水中）
+Stone Pillar D (Coral, Underwater)|石の柱D（水中・珊瑚付き）
+Stone Pillar E (Underwater)|石の柱E（水中）
+Stone Pillar F (Underwater)|石の柱F（水中）
+Stone Pillar G (Coral, Underwater)|石の柱G（水中・珊瑚付き）
+Stone Pillar H (Underwater)|石の柱H（水中）
+Stone Pillar A (Underwater)|石の柱A（水中）
+Stone Pillar B (Coral, Underwater)|石の柱B（水中・珊瑚付き）
+Stone Pillar C (Underwater)|石の柱C（水中）
+Stone Pillar D (Coral, Underwater)|石の柱D（水中・珊瑚付き）
+Stone Pillar E (Underwater)|石の柱E（水中）
+Stone Pillar F (Underwater)|石の柱F（水中）
+Stone Pillar G (Coral, Underwater)|石の柱G（水中・珊瑚付き）
+Stone Pillar H (Underwater)|石の柱H（水中）
+Stone Pillar I (Broken, Coral, Underwater)|壊れた石の柱I（水中・珊瑚付き）
+Stone Pillar I (Fallen, Coral, Underwater)|倒れた石の柱I（水中・珊瑚付き）
+Stone Pillar I (Coral, Underwater)|石の柱I（水中・珊瑚付き）
+Stone Pillar I (Broken, Coral, Underwater)|壊れた石の柱I（水中・珊瑚付き）
+Monument B (Coral, Underwater)|石碑B（水中・珊瑚付き）
+Monument B (Coral, Underwater)|石碑B（水中・珊瑚付き）
+Monument B (Coral, Underwater)|石碑B（水中・珊瑚付き）
+Monument B (Coral, Underwater)|石碑B（水中・珊瑚付き）
+Stone Pillar I (Broken, Coral, Underwater)|壊れた石の柱I（水中・珊瑚付き）
+Stone Pillar I (Fallen, Coral, Underwater)|倒れた石の柱I（水中・珊瑚付き）
+Stone Pillar I (Coral, Underwater)|石の柱I（水中・珊瑚付き）
+Stone Pillar I (Broken, Coral, Underwater)|壊れた石の柱I（水中・珊瑚付き）
+Monument B (Coral, Underwater)|石碑B（水中・珊瑚付き）
+Monument B (Coral, Underwater)|石碑B（水中・珊瑚付き）
+Monument B (Coral, Underwater)|石碑B（水中・珊瑚付き）
+Monument B (Coral, Underwater)|石碑B（水中・珊瑚付き）
+Stone Pillar I (Fallen, Coral, Underwater)|倒れた石の柱I（水中・珊瑚付き）
+Stone Pillar I (Fallen, Coral, Underwater)|倒れた石の柱I（水中・珊瑚付き）
+Stone Pillar I (Fallen, Coral, Underwater)|倒れた石の柱I（水中・珊瑚付き）
+Stone Pillar I (Fallen, Coral, Underwater)|倒れた石の柱I（水中・珊瑚付き）
+Monument B (Underwater)|石碑B（水中）
+Monument B (Underwater)|石碑B（水中）
+Monument B (Underwater)|石碑B（水中）
+Monument B (Broken, Underwater)|壊れた石碑B（水中）
+Stone Pillar I (Fallen, Coral, Underwater)|倒れた石の柱I（水中・珊瑚付き）
+Stone Pillar I (Fallen, Coral, Underwater)|倒れた石の柱I（水中・珊瑚付き）
+Stone Pillar I (Fallen, Coral, Underwater)|倒れた石の柱I（水中・珊瑚付き）
+Stone Pillar I (Fallen, Coral, Underwater)|倒れた石の柱I（水中・珊瑚付き）
+Monument B (Underwater)|石碑B（水中）
+Monument B (Underwater)|石碑B（水中）
+Monument B (Underwater)|石碑B（水中）
+Monument B (Broken, Underwater)|壊れた石碑B（水中）
+Stone Pillar I (Broken, Underwater)|壊れた石の柱I（水中）
+Stone Pillar I (Fallen, Underwater)|倒れた石の柱I（水中）
+Stone Pillar I (Underwater)|石の柱I（水中）
+Stone Pillar I (Broken, Underwater)|壊れた石の柱I（水中）
+Large Monument (Underwater)|大きな石碑（水中）
+Large Monument (Underwater)|大きな石碑（水中）
+Large Monument (Underwater)|大きな石碑（水中）
+Shadow (Large Monument, Underwater)|影（大きな石碑・水中）
+Stone Pillar I (Broken, Underwater)|壊れた石の柱I（水中）
+Stone Pillar I (Fallen, Underwater)|倒れた石の柱I（水中）
+Stone Pillar I (Underwater)|石の柱I（水中）
+Stone Pillar I (Broken, Underwater)|壊れた石の柱I（水中）
+Large Monument (Underwater)|大きな石碑（水中）
+Large Monument (Underwater)|大きな石碑（水中）
+Large Monument (Underwater)|大きな石碑（水中）
+Shadow (Large Monument, Underwater)|影（大きな石碑・水中）
+Stone Pillar I (Fallen, Underwater)|倒れた石の柱I（水中）
+Stone Pillar I (Fallen, Underwater)|倒れた石の柱I（水中）
+Stone Pillar I (Fallen, Underwater)|倒れた石の柱I（水中）
+Stone Pillar I (Fallen, Underwater)|倒れた石の柱I（水中）
+Large Monument (Underwater)|大きな石碑（水中）
+Large Monument (Underwater)|大きな石碑（水中）
+Large Monument (Underwater)|大きな石碑（水中）
+Shadow (Large Monument, Underwater)|影（大きな石碑・水中）
+Stone Pillar I (Fallen, Underwater)|倒れた石の柱I（水中）
+Stone Pillar I (Fallen, Underwater)|倒れた石の柱I（水中）
+Stone Pillar I (Fallen, Underwater)|倒れた石の柱I（水中）
+Stone Pillar I (Fallen, Underwater)|倒れた石の柱I（水中）
+Large Monument (Coral, Underwater)|大きな石碑（水中・珊瑚付き）
+Large Monument (Coral, Underwater)|大きな石碑（水中・珊瑚付き）
+Large Monument (Coral, Underwater)|大きな石碑（水中・珊瑚付き）
+Large Monument (Broken, Underwater)|壊れた大きな石碑（水中）
+Rubble A (Underwater)|瓦礫A（水中）
+Rubble B (Underwater)|瓦礫B（水中）
+Rubble A (Shallow Water)|瓦礫A（浅い水場）
+|
+Large Monument (Coral, Underwater)|大きな石碑（水中・珊瑚付き）
+Large Monument (Coral, Underwater)|大きな石碑（水中・珊瑚付き）
+Large Monument (Coral, Underwater)|大きな石碑（水中・珊瑚付き）
+Large Monument (Broken, Underwater)|壊れた大きな石碑（水中）
+Stone Pillar I (Broken, Shallow Water)|壊れた石の柱I（浅い水場）
+Stone Pillar I (Fallen, Shallow Water)|倒れた石の柱I（浅い水場）
+Stone Pillar I (Fallen, Shallow Water)|倒れた石の柱I（浅い水場）
+Stone Pillar I (Fallen, Shallow Water)|倒れた石の柱I（浅い水場）
+Stone Pillar I (Fallen, Shallow Water)|倒れた石の柱I（浅い水場）
+Stone Pillar I (Fallen, Shallow Water)|倒れた石の柱I（浅い水場）
+Stone Pillar I (Shallow Water)|石の柱I（浅い水場）
+Stone Pillar I (Broken, Shallow Water)|壊れた石の柱I（浅い水場）
+Stone Pillar I (Broken, Shallow Water)|壊れた石の柱I（浅い水場）
+Stone Pillar I (Fallen, Shallow Water)|倒れた石の柱I（浅い水場）
+Stone Pillar I (Fallen, Shallow Water)|倒れた石の柱I（浅い水場）
+Stone Pillar I (Fallen, Shallow Water)|倒れた石の柱I（浅い水場）
+Stone Pillar I (Fallen, Shallow Water)|倒れた石の柱I（浅い水場）
+Stone Pillar I (Fallen, Shallow Water)|倒れた石の柱I（浅い水場）
+Stone Pillar I (Shallow Water)|石の柱I（浅い水場）
+Stone Pillar I (Broken, Shallow Water)|壊れた石の柱I（浅い水場）
+Monument B|石碑B
+Monument B|石碑B
+Monument B|石碑B
+Monument B (Coral)|石碑B（珊瑚付き）
+Monument B (Coral)|石碑B（珊瑚付き）
+Monument B (Coral)|石碑B（珊瑚付き）
+Stone Pillar I (Water)|石の柱I（水場）
+Stone Pillar I (Broken, Water)|壊れた石の柱I（水場）
+Monument B (Water)|石碑B（水場）
+Monument B (Water)|石碑B（水場）
+Monument B (Water)|石碑B（水場）
+Monument B (Coral, Water)|石碑B（水場・珊瑚付き）
+Monument B (Coral, Water)|石碑B（水場・珊瑚付き）
+Monument B (Coral, Water)|石碑B（水場・珊瑚付き）
+Stone Pillar I (Water)|石の柱I（水場）
+Stone Pillar I (Broken, Water)|壊れた石の柱I（水場）
+Coral A (Underwater)|珊瑚A（水中）
+Coral B (Underwater)|珊瑚B（水中）
+Coral C (Underwater)|珊瑚C（水中）
+Coral D (Underwater)|珊瑚D（水中）
+Coral E (Underwater)|珊瑚E（水中）
+Coral F (Underwater)|珊瑚F（水中）
+Stone Pillar B (Coral, Shallow Water)|石の柱B（浅い水場・珊瑚付き）
+Stone Pillar D (Coral, Shallow Water)|石の柱D（浅い水場・珊瑚付き）
+Monument B (Shallow Water)|石碑B（浅い水場）
+Monument B (Shallow Water)|石碑B（浅い水場）
+Monument B (Shallow Water)|石碑B（浅い水場）
+Monument B (Broken, Shallow Water)|壊れた石碑B（浅い水場）
+Stone Pillar A (Shallow Water)|石の柱A（浅い水場）
+Stone Pillar C (Shallow Water)|石の柱C（浅い水場）
+Stone Pillar B (Coral, Shallow Water)|石の柱B（浅い水場・珊瑚付き）
+Stone Pillar D (Coral, Shallow Water)|石の柱D（浅い水場・珊瑚付き）
+Monument B (Coral, Shallow Water)|石碑B（浅い水場・珊瑚付き）
+Monument B (Coral, Shallow Water)|石碑B（浅い水場・珊瑚付き）
+Monument B (Coral, Shallow Water)|石碑B（浅い水場・珊瑚付き）
+Monument B (Coral, Shallow Water)|石碑B（浅い水場・珊瑚付き）
+Large Monument (Coral, Shallow Water)|大きな石碑（浅い水場・珊瑚付き）
+Large Monument (Coral, Shallow Water)|大きな石碑（浅い水場・珊瑚付き）
+Large Monument (Coral, Shallow Water)|大きな石碑（浅い水場・珊瑚付き）
+Large Monument (Broken, Shallow Water)|壊れた大きな石碑（浅い水場）
+Large Monument (Shallow Water)|大きな石碑（浅い水場）
+Large Monument (Shallow Water)|大きな石碑（浅い水場）
+Large Monument (Shallow Water)|大きな石碑（浅い水場）
+Shadow (Large Monument, Shallow Water)|影（大きな石碑・浅い水場）
+Large Monument (Coral, Shallow Water)|大きな石碑（浅い水場・珊瑚付き）
+Large Monument (Coral, Shallow Water)|大きな石碑（浅い水場・珊瑚付き）
+Large Monument (Coral, Shallow Water)|大きな石碑（浅い水場・珊瑚付き）
+Large Monument (Broken, Shallow Water)|壊れた大きな石碑（浅い水場）
+Ledge C|段差C
+Ledge C|段差C
+Ledge C|段差C
+Ledge C|段差C
+Ledge C|段差C
+Stairs F (Ledge C)|階段F（段差C）
+Stairs G (Ledge C)|階段G（段差C）
+Stairs H (Ledge C)|階段H（段差C）
+Ledge C|段差C
+Ground A|床A
+Ledge C|段差C
+Ledge C|段差C
+Ledge C|段差C
+Ledge C (Shadow, Center)|段差C（影・中央）
+Ledge C (Shadow, Right)|段差C（影・右）
+Stairs I (Ledge C)|階段I（段差C）
+Ledge C|段差C
+Ledge C|段差C
+Ledge C|段差C
+Ledge C (Shallow Water, Shadow, Center)|段差C（浅い水場・影・中央）
+Ledge C (Shallow Water, Shadow, Right)|段差C（浅い水場・影・右）
+Ledge C (Shallow Water, Shadow, Center)|段差C（浅い水場・影・中央）
+Ledge C (Shallow Water, Shadow, Right)|段差C（浅い水場・影・右）
+|
+Ledge C (Shallow Water)|段差C（浅い水場）
+Ledge C (Shallow Water)|段差C（浅い水場）
+Ledge C (Shallow Water)|段差C（浅い水場）
+Shadow (Ledge C, Shallow Water)|影（段差C・浅い水場）
+Ledge C (Shallow Water)|段差C（浅い水場）
+Ledge C (Shallow Water)|段差C（浅い水場）
+Stairs H (Ledge C, Shallow Water)|階段H（段差C・浅い水場）
+Shadow (Wall A, Shallow Water)|影（壁A・浅い水場）
+Ledge C (Shallow Water)|段差C（浅い水場）
+Ground A|床A
+Ledge C (Shallow Water)|段差C（浅い水場）
+Shadow (Ledge C, Shallow Water)|影（段差C・浅い水場）
+Ledge C (Shallow Water)|段差C（浅い水場）
+Ledge C (Shallow Water)|段差C（浅い水場）
+Stairs I (Ledge C, Shallow Water)|階段I（段差C・浅い水場）
+Shadow (Wall A, Shallow Water)|影（壁A・浅い水場）
+Ledge C (Shallow Water)|段差C（浅い水場）
+Ledge C (Shallow Water)|段差C（浅い水場）
+Ledge C (Shallow Water)|段差C（浅い水場）
+Shadow (Ledge C, Shallow Water)|影（段差C・浅い水場）
+Stairs F (Ledge C, Shallow Water)|階段F（段差C・浅い水場）
+Stairs G (Ledge C, Shallow Water)|階段G（段差C・浅い水場）
+|
+Shadow (Wall A, Shallow Water)|影（壁A・浅い水場）
+Stairs A (Water)|階段A（水場）
+Stairs A (Water)|階段A（水場）
+Stairs A (Water)|階段A（水場）
+Stairs B (Water)|階段B（水場）
+|
+|
+Ledge B (Top, Shadow)|段差B（上端・影）
+Ledge B (Top, Shadow)|段差B（上端・影）
+Stairs A (Water)|階段A（水場）
+Stairs A (Water)|階段A（水場）
+Stairs A (Water)|階段A（水場）
+Stairs B (Water)|階段B（水場）
+Shadow (Stairs B, Water)|階段の影（水場）
+Ledge B (Top)|段差B（上端）
+Ledge B (Top)|段差B（上端）
+Ledge B (Top)|段差B（上端）
+Stairs A (Water)|階段A（水場）
+Stairs A (Water)|階段A（水場）
+Stairs A (Water)|階段A（水場）
+Stairs B (Water)|階段B（水場）
+Shadow (Stairs B, Water)|階段の影（水場）
+Ledge B (Top)|段差B（上端）
+Ledge B (Shadow, Center)|段差B（影・中央）
+Ledge B (Shadow, Right)|段差B（影・右）
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|

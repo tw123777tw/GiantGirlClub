@@ -1,0 +1,256 @@
+﻿Suspension Bridge (V)|吊り橋（縦）
+|
+Suspension Bridge (V)|吊り橋（縦）
+|
+Stone Bridge (V)|石の橋（縦）
+|
+Stone Bridge (V)|石の橋（縦）
+|
+Suspension Bridge (V)|吊り橋（縦）
+Suspension Bridge (V)|吊り橋（縦）
+Suspension Bridge (V)|吊り橋（縦）
+|
+Stone Bridge (V)|石の橋（縦）
+Stone Bridge (V)|石の橋（縦）
+Stone Bridge (V)|石の橋（縦）
+|
+Suspension Bridge (V)|吊り橋（縦）
+Suspension Bridge (V)|吊り橋（縦）
+Suspension Bridge (V)|吊り橋（縦）
+|
+Stone Bridge (V)|石の橋（縦）
+Stone Bridge (V)|石の橋（縦）
+Stone Bridge (V)|石の橋（縦）
+|
+Suspension Bridge (V)|吊り橋（縦）
+Suspension Bridge (V)|吊り橋（縦）
+Suspension Bridge (V)|吊り橋（縦）
+|
+Stone Bridge (V)|石の橋（縦）
+Stone Bridge (V)|石の橋（縦）
+Stone Bridge (V)|石の橋（縦）
+|
+Suspension Bridge (V)|吊り橋（縦）
+|
+Suspension Bridge (V)|吊り橋（縦）
+|
+Stone Bridge (H)|石の橋（横）
+Stone Bridge (H)|石の橋（横）
+Stone Bridge (H)|石の橋（横）
+Shadow (Stone Bridge)|影（石の橋）
+Suspension Bridge (H, Upper)|吊り橋（横・上側）
+Suspension Bridge (H, Upper)|吊り橋（横・上側）
+Suspension Bridge (H, Upper)|吊り橋（横・上側）
+|
+Stone Bridge (H)|石の橋（横）
+Stone Bridge (H)|石の橋（横）
+Stone Bridge (H)|石の橋（横）
+|
+Suspension Bridge (H, Upper)|吊り橋（横・上側）
+Suspension Bridge (H, Upper)|吊り橋（横・上側）
+Suspension Bridge (H, Upper)|吊り橋（横・上側）
+Shadow (Suspension Bridge)|影（吊り橋）
+Stone Bridge (H)|石の橋（横）
+Stone Bridge (H)|石の橋（横）
+Stone Bridge (H)|石の橋（横）
+Shadow (Stone Bridge)|影（石の橋）
+Suspension Bridge (H, Center)|吊り橋（横・中央）
+Suspension Bridge (H, Center)|吊り橋（横・中央）
+Suspension Bridge (H, Center)|吊り橋（横・中央）
+|
+Stairs (Slope)|坂の階段
+Stairs (Slope)|坂の階段
+Stairs (Slope)|坂の階段
+|
+Suspension Bridge (H, Bottom)|吊り橋（横・下側）
+Suspension Bridge (H, Bottom)|吊り橋（横・下側）
+Suspension Bridge (H, Bottom)|吊り橋（横・下側）
+|
+Stairs (Slope)|坂の階段
+Stairs (Slope)|坂の階段
+Stairs (Slope)|坂の階段
+|
+Suspension Bridge (H, Bottom)|吊り橋（横・下側）
+Suspension Bridge (H, Bottom)|吊り橋（横・下側）
+Suspension Bridge (H, Bottom)|吊り橋（横・下側）
+Shadow (Suspension Bridge)|影（吊り橋）
+|
+|
+|
+Bush D (Impassable)|茂みD（通行不可）
+Stone Stairs A|石の階段A
+Stone Stairs A|石の階段A
+Stone Stairs A|石の階段A
+Stone Stairs B|石の階段B
+Stone Stairs B|石の階段B
+Stone Stairs B|石の階段B
+Shadow (Stone Stairs)|影（石の階段）
+Bush D|茂みD
+Stone Stairs A|石の階段A
+Stone Stairs A|石の階段A
+Stone Stairs A|石の階段A
+Stone Stairs B|石の階段B
+Stone Stairs B|石の階段B
+Stone Stairs B|石の階段B
+Shadow (Stone Stairs)|影（石の階段）
+Bush D|茂みD
+Stone Stairs A|石の階段A
+Stone Stairs A|石の階段A
+Stone Stairs A|石の階段A
+Stone Stairs B|石の階段B
+Stone Stairs B|石の階段B
+Stone Stairs B|石の階段B
+Shadow (Stone Stairs)|影（石の階段）
+Bush D|茂みD
+Wood Stairs A|木の階段A
+Wood Stairs A|木の階段A
+Wood Stairs A|木の階段A
+Wood Stairs B|木の階段B
+Wood Stairs B|木の階段B
+Wood Stairs B|木の階段B
+Bush D|茂みD
+Bush D|茂みD
+Wood Stairs A|木の階段A
+Wood Stairs A|木の階段A
+Wood Stairs A|木の階段A
+Wood Stairs B|木の階段B
+Wood Stairs B|木の階段B
+Wood Stairs B|木の階段B
+Bush D|茂みD
+Bush D|茂みD
+Wood Stairs A|木の階段A
+Wood Stairs A|木の階段A
+Wood Stairs A|木の階段A
+Wood Stairs B|木の階段B
+Wood Stairs B|木の階段B
+Wood Stairs B|木の階段B
+Bush D|茂みD
+Bush D|茂みD
+Stone Pillar A|石の柱A
+Stone Pillar B|石の柱B
+Stone Pillar C|石の柱C
+Stone Pillar D|石の柱D
+Stone Pillar E|石の柱E
+Stone Pillar F|石の柱F
+Stone Pillar G|石の柱G
+Stone Pillar H|石の柱H
+Stone Pillar A|石の柱A
+Stone Pillar B|石の柱B
+Stone Pillar C|石の柱C
+Stone Pillar D|石の柱D
+Stone Pillar E|石の柱E
+Stone Pillar F|石の柱F
+Stone Pillar G|石の柱G
+Stone Pillar H|石の柱H
+Stone Pillar I (Broken)|壊れた石の柱I
+Stone Pillar I (Fallen)|倒れた石の柱I
+Stone Pillar I|石の柱I
+Stone Pillar I (Broken)|壊れた石の柱I
+Monument A|石碑A
+Monument A|石碑A
+Monument A|石碑A
+Monument A (Moss)|石碑A（苔）
+Stone Pillar I (Broken)|壊れた石の柱I
+Stone Pillar I (Fallen)|倒れた石の柱I
+Stone Pillar I|石の柱I
+Stone Pillar I (Broken)|壊れた石の柱I
+Monument A|石碑A
+Monument A|石碑A
+Monument A|石碑A
+Monument A (Moss)|石碑A（苔）
+Stone Pillar I (Fallen)|倒れた石の柱I
+Stone Pillar I (Fallen)|倒れた石の柱I
+Stone Pillar I (Fallen)|倒れた石の柱I
+Stone Pillar I (Fallen)|倒れた石の柱I
+Monument B|石碑B
+Monument B|石碑B
+Monument B|石碑B
+Monument B (Broken)|壊れた石碑B
+Stone Pillar I (Fallen)|倒れた石の柱I
+Stone Pillar I (Fallen)|倒れた石の柱I
+Stone Pillar I (Fallen)|倒れた石の柱I
+Stone Pillar I (Fallen)|倒れた石の柱I
+Monument B|石碑B
+Monument B|石碑B
+Monument B|石碑B
+Monument B (Broken)|壊れた石碑B
+Stone Pillar J (Broken)|壊れた石の柱J
+Stone Pillar J (Fallen)|倒れた石の柱J
+Stone Pillar J|石の柱J
+Stone Pillar J (Broken)|壊れた石の柱J
+Large Monument|大きな石碑
+Large Monument|大きな石碑
+Large Monument|大きな石碑
+Shadow (Large Monument)|影（大きな石碑）
+Stone Pillar J (Broken)|壊れた石の柱J
+Stone Pillar J (Fallen)|倒れた石の柱J
+Stone Pillar J|石の柱J
+Stone Pillar J (Broken)|壊れた石の柱J
+Large Monument|大きな石碑
+Large Monument|大きな石碑
+Large Monument|大きな石碑
+Shadow (Large Monument)|影（大きな石碑）
+Stone Pillar J (Fallen)|倒れた石の柱J
+Stone Pillar J (Fallen)|倒れた石の柱J
+Stone Pillar J (Fallen)|倒れた石の柱J
+Stone Pillar J (Fallen)|倒れた石の柱J
+Large Monument|大きな石碑
+Large Monument|大きな石碑
+Large Monument|大きな石碑
+Shadow (Large Monument)|影（大きな石碑）
+Stone Pillar J (Fallen)|倒れた石の柱J
+Stone Pillar J (Fallen)|倒れた石の柱J
+Stone Pillar J (Fallen)|倒れた石の柱J
+Stone Pillar J (Fallen)|倒れた石の柱J
+Large Monument (Moss)|大きな石碑（苔）
+Large Monument (Moss)|大きな石碑（苔）
+Large Monument (Moss)|大きな石碑（苔）
+Large Monument (Broken)|壊れた大きな石碑
+Rubble A|瓦礫A
+Rubble B|瓦礫B
+|
+|
+Large Monument (Moss)|大きな石碑（苔）
+Large Monument (Moss)|大きな石碑（苔）
+Large Monument (Moss)|大きな石碑（苔）
+Large Monument (Broken)|壊れた大きな石碑
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|

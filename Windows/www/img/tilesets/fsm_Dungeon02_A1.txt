@@ -1,0 +1,16 @@
+﻿Water|水場
+Rock (Can Walk)|歩ける岩
+Deep Water|深い水場
+Rock|岩
+|
+Waterfall (Whole Surface)|滝（全面）
+|
+|
+Water (Whole Surface)|水場（全面）
+Waterfall|滝
+Poison Swamp|毒の沼
+Poison Swamp (Bubble)|毒の沼（泡）
+|
+|
+|
+|

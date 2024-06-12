@@ -1,0 +1,32 @@
+﻿Myriad Roots|無数の根
+Meadow (Myriad Roots)|草地（無数の根）
+Road (Myriad Roots)|道（無数の根）
+Dirt (Myriad Roots)|土（無数の根）
+Bush A|茂みA
+Meadow|草地
+Bush B|茂みB
+Bush C|茂みC
+Meadow|草地
+Myriad Roots (Meadow)|無数の根（草地）
+Road (Meadow)|道（草地）
+Dirt (Meadow)|土（草地）
+Dirt|土
+Little Ledge A (Myriad Roots)|低い段差A（無数の根）
+Hole (Myriad Roots)|穴（無数の根）
+Hole (Meadow)|穴（草地）
+Dirt|土
+Deep Dirt (Dirt)|濃い土（土）
+Meadow (Dirt)|草地（土）
+Myriad Roots (Dirt)|無数の根（土）
+Little Ledge B|低い段差B
+Little Ledge C|低い段差C
+Little Ledge D|低い段差D
+Fencepost A|柵A
+Moss|苔
+Meadow (Moss)|草地（苔）
+Myriad Roots (Moss)|無数の根（苔）
+Little Ledge E (Moss)|低い段差E（苔）
+Road|道
+Mushrooms A|キノコA
+Mushrooms B|キノコB
+Fencepost B|柵B

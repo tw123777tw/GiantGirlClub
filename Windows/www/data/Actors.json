@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"佑","characterIndex":3,"characterName":"人物","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"1佑","traits":[],"initialLevel":1,"maxLevel":99,"name":"佑","nickname":"","note":"","profile":"普通的高中生，擅长数学，在缩小之后有超乎常人的\n适应能力。"},
+{"id":2,"battlerName":"幼望","characterIndex":6,"characterName":"新添加","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"幼望","traits":[],"initialLevel":1,"maxLevel":99,"name":"幼望","nickname":"","note":"","profile":"年幼时的望"},
+{"id":3,"battlerName":"望","characterIndex":1,"characterName":"人物","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"1旧望","traits":[],"initialLevel":1,"maxLevel":99,"name":"望","nickname":"望","note":"","profile":"美少女高中生，有虐待弱小事物的癖好。"},
+{"id":4,"battlerName":"勇者","characterIndex":0,"characterName":"勇者","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"勇者1","traits":[],"initialLevel":1,"maxLevel":25,"name":"勇者","nickname":"","note":"","profile":"传说中从异世界穿越来打败魔王的勇士。"},
+{"id":5,"battlerName":"","characterIndex":2,"characterName":"任务2","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"画手","traits":[],"initialLevel":1,"maxLevel":99,"name":"JOJA","nickname":"","note":"","profile":"巨研社的画师"}
+]

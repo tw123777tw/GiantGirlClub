@@ -1,0 +1,256 @@
+﻿Wall Decoration (Mine)|壁装飾（坑道）
+Wall Decoration (Mine)|壁装飾（坑道）
+Wall Decoration (Mine)|壁装飾（坑道）
+Wall Decoration (Mine)|壁装飾（坑道）
+Wall Decoration (Mine, Lower Half B)|壁装飾（坑道・下半分B）
+Wall Decoration (Mine, Lower Half B)|壁装飾（坑道・下半分B）
+|
+|
+Wall Decoration (Mine, Lower Half A)|壁装飾（坑道・下半分A）
+Wall Decoration (Mine, Lower Half A)|壁装飾（坑道・下半分A）
+|
+Wall Decoration (Mine, Lower Half A)|壁装飾（坑道・下半分A）
+Wall Decoration (Mine, Lower Half B)|壁装飾（坑道・下半分B）
+Wall Decoration (Mine, Lower Half B)|壁装飾（坑道・下半分B）
+Wall Decoration (Mine, Lower Half B)|壁装飾（坑道・下半分B）
+Wall Decoration (Mine, Lower Half B)|壁装飾（坑道・下半分B）
+Wall Decoration (Mine, Lower Half A)|壁装飾（坑道・下半分A）
+Wall Decoration (Mine, Lower Half A)|壁装飾（坑道・下半分A）
+|
+Wall Decoration (Mine, Lower Half A)|壁装飾（坑道・下半分A）
+Beam (V)|天井の梁（縦）
+Beam (H, Left A)|天井の梁（横・左A）
+Beam (H, Center)|天井の梁（横・中央）
+Beam (H, Right A)|天井の梁（横・右A）
+Stool|イス
+Barrel A|樽A
+Barrel B|樽B
+Beam (H, Width 1)|天井の梁（横・幅1マス）
+Beam (V)|天井の梁（縦）
+Shadow (Lower Haif)|影（下半分）
+Beam (H, Left B)|天井の梁（横・左B）
+Beam (H, Right B)|天井の梁（横・右B）
+Pickax|つるはし
+Crate A|木箱A
+Crate B|木箱B
+Beam|天井の梁
+Beam|天井の梁
+Beam|天井の梁
+Beam (H, Left B)|天井の梁（横・左B）
+Beam (H, Right B)|天井の梁（横・右B）
+Pickax|つるはし
+Crate C (Earth A)|木箱C（土砂A）
+Crate D (Ore)|木箱D（鉱石）
+Crate D (Tool)|木箱E（工具）
+Beam|天井の梁
+Beam|天井の梁
+|
+|
+Crate D (Earth B)|木箱C（土砂B）
+Stacked Crates A|積まれた木箱A
+Stacked Crates B|積まれた木箱B
+Stacked Crates B|積まれた木箱B
+Sack A|麻袋A
+Stacked Sacks A|積まれた麻袋A
+Stacked Sacks A|積まれた麻袋A
+Stacked Sacks B|積まれた麻袋B
+Crate D (Earth B)|木箱C（土砂B）
+Stacked Crates A|積まれた木箱A
+Stacked Crates B|積まれた木箱B
+Stacked Crates B|積まれた木箱B
+Sack B|麻袋B
+Stacked Sacks A|積まれた麻袋A
+Stacked Sacks A|積まれた麻袋A
+Stacked Sacks B|積まれた麻袋B
+Top board A (Books)|天板A（本）
+Top board A|天板A
+Top board B|天板B
+Top board B|天板B
+Top board B (Boxes & Ropes)|天板B（箱と縄）
+Top board B (Boxes & Ropes)|天板B（箱と縄）
+Bed|ベッド
+Desk|机
+Bookshelf A|本棚A
+Sundries Shelf A|雑貨棚A
+Bookshelf B|本棚B
+Bookshelf B|本棚B
+Sundries Shelf B|雑貨棚B
+Sundries Shelf B|雑貨棚B
+Bed|ベッド
+Duvet|掛け布団
+Bookshelf A|本棚A
+Sundries Shelf A|雑貨棚A
+Bookshelf B|本棚B
+Bookshelf B|本棚B
+Sundries Shelf B|雑貨棚B
+Sundries Shelf B|雑貨棚B
+Bed|ベッド
+Duvet|掛け布団
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Wood Stairs|木の階段
+Wood Stairs|木の階段
+Wood Stairs|木の階段
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Wood Stairs|木の階段
+Wood Stairs|木の階段
+Wood Stairs|木の階段
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Wood Stairs|木の階段
+Wood Stairs|木の階段
+Wood Stairs|木の階段
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Fencepost D|柵D
+Wood Bridge (H)|木の橋（横）
+Wood Bridge (H)|木の橋（横）
+Wood Bridge (H, Broken)|壊れた木の橋（横）
+Wood Bridge (H)|木の橋（横）
+Wood Bridge (H, Pier)|木の橋（横・橋脚）
+Pier (Bottom, Shallow Water)|橋脚（下端・浅い水場）
+|
+Fencepost D|柵D
+Wood Bridge (H)|木の橋（横）
+Wood Bridge (H)|木の橋（横）
+Wood Bridge (H, Broken)|壊れた木の橋（横）
+Wood Bridge (H)|木の橋（横）
+Pier|橋脚
+Wood Bridge (V)|木の橋（縦）
+Wood Bridge (V)|木の橋（縦）
+Wood Bridge (V)|木の橋（縦）
+Wood Bridge (H)|木の橋（横）
+Wood Bridge (H, Bottom A)|木の橋（横・下A）
+Wood Bridge (H, Broken)|壊れた木の橋（横）
+Wood Bridge (H)|木の橋（横）
+Pier (Bottom)|橋脚（下端）
+Wood Bridge (V)|木の橋（縦）
+Wood Bridge (V)|木の橋（縦）
+Wood Bridge (V)|木の橋（縦）
+Wood Bridge (H, Bottom B)|木の橋（横・下B）
+Wood Bridge (H, Bottom C)|木の橋（横・下C）
+Wood Bridge (H, Bottom D)|木の橋（横・下D）
+Wood Bridge (H, Bottom E)|木の橋（横・下E）
+Pier (Bottom, Water)|橋脚（下端・水場）
+Wood Bridge (V, Broken)|壊れた木の橋（縦）
+Wood Bridge (V, Broken)|壊れた木の橋（縦）
+Wood Bridge (V, Broken)|壊れた木の橋（縦）
+Bridge Girder A|橋桁A
+Bridge Girder B|橋桁B
+Bridge Girder C|橋桁C
+Bridge Girder D|橋桁D
+Pier (Bottom, Water)|橋脚（下端・水場）
+Wood Bridge (V)|木の橋（縦）
+Wood Bridge (V)|木の橋（縦）
+Wood Bridge (V)|木の橋（縦）
+Wood Bridge (H, Bottom F)|木の橋（横・下F）
+Wood Bridge (H, Bottom F)|木の橋（横・下F）
+Wood Bridge (H, Bottom F)|木の橋（横・下F）
+|
+Buffer Stop A|車止めA
+|
+Buffer Stop B|車止めB
+Shadow (Buffer Stop B)|影（車止めB）
+Bridge Girder E (Pier)|橋桁E（橋脚）
+Bridge Girder E (Pier)|橋桁E（橋脚）
+Bridge Girder E (Pier)|橋桁E（橋脚）
+Bridge Girder E (Pier)|橋桁F（橋脚）
+Buffer Stop A|車止めA
+Shadow (Buffer Stop A)|影（車止めA）
+Buffer Stop B|車止めB
+Shadow (Buffer Stop B)|影（車止めB）
+Rails|線路
+Rails|線路
+Rails|線路
+Rails|線路
+Buffer Stop C|車止めC
+Buffer Stop D|車止めD
+Shadow (Buffer Stop D)|影（車止めD）
+Railroad Ties A|枕木A
+Rails|線路
+Rails|線路
+Rails|線路
+Rails|線路
+Buffer Stop C|車止めC
+Buffer Stop D|車止めD
+Shadow (Buffer Stop D)|影（車止めD）
+Railroad Ties B|枕木B
+Rails|線路
+Rails|線路
+Rails|線路
+Rails|線路
+Rails|線路
+Rails|線路
+Rails|線路
+Rails|線路
+Rails|線路
+Rails|線路
+Rails|線路
+Rails|線路
+Rails|線路
+Rails|線路
+Rails|線路
+Rails|線路
+Rails|線路
+Rails|線路
+Rails|線路
+Rails|線路
+Rails|線路
+Rails|線路
+Rails|線路
+Rails|線路

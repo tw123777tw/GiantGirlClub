@@ -1,0 +1,48 @@
+﻿Wall A|壁A
+Wall B|壁B
+Wall C|壁C
+Watchtower|やぐら
+Ledge A|段差A
+Ledge B|段差B
+Ledge C|段差C
+|
+Wall A|壁A
+Wall B|壁B
+Wall C|壁C
+Watchtower|やぐら
+Wall D|壁D
+Wall D|壁D
+Wall E (Hole)|壁E（穴）
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|

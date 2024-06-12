@@ -1,0 +1,256 @@
+﻿Suspension Bridge (V)|吊り橋（縦）
+|
+Suspension Bridge (V)|吊り橋（縦）
+|
+Stone Bridge (V)|石の橋（縦）
+|
+Stone Bridge (V)|石の橋（縦）
+|
+Suspension Bridge (V)|吊り橋（縦）
+Suspension Bridge (V)|吊り橋（縦）
+Suspension Bridge (V)|吊り橋（縦）
+|
+Stone Bridge (V)|石の橋（縦）
+Stone Bridge (V)|石の橋（縦）
+Stone Bridge (V)|石の橋（縦）
+|
+Suspension Bridge (V)|吊り橋（縦）
+Suspension Bridge (V)|吊り橋（縦）
+Suspension Bridge (V)|吊り橋（縦）
+|
+Stone Bridge (V)|石の橋（縦）
+Stone Bridge (V)|石の橋（縦）
+Stone Bridge (V)|石の橋（縦）
+|
+Suspension Bridge (V)|吊り橋（縦）
+Suspension Bridge (V)|吊り橋（縦）
+Suspension Bridge (V)|吊り橋（縦）
+|
+Stone Bridge (V)|石の橋（縦）
+Stone Bridge (V)|石の橋（縦）
+Stone Bridge (V)|石の橋（縦）
+|
+Suspension Bridge (V)|吊り橋（縦）
+|
+Suspension Bridge (V)|吊り橋（縦）
+|
+Stone Bridge (H)|石の橋（横）
+Stone Bridge (H)|石の橋（横）
+Stone Bridge (H)|石の橋（横）
+Shadow (Stone Bridge)|影（石の橋）
+Suspension Bridge (H, Upper)|吊り橋（横・上側）
+Suspension Bridge (H, Upper)|吊り橋（横・上側）
+Suspension Bridge (H, Upper)|吊り橋（横・上側）
+|
+Stone Bridge (H)|石の橋（横）
+Stone Bridge (H)|石の橋（横）
+Stone Bridge (H)|石の橋（横）
+|
+Suspension Bridge (H, Upper)|吊り橋（横・上側）
+Suspension Bridge (H, Upper)|吊り橋（横・上側）
+Suspension Bridge (H, Upper)|吊り橋（横・上側）
+Shadow (Suspension Bridge)|影（吊り橋）
+Stone Bridge (H)|石の橋（横）
+Stone Bridge (H)|石の橋（横）
+Stone Bridge (H)|石の橋（横）
+Shadow (Stone Bridge)|影（石の橋）
+Suspension Bridge (H, Center)|吊り橋（横・中央）
+Suspension Bridge (H, Center)|吊り橋（横・中央）
+Suspension Bridge (H, Center)|吊り橋（横・中央）
+|
+Ledge A (Top, Width 1)|段差A（上端・幅1マス）
+Ledge A (Top, Width 1)|段差A（上端・幅1マス）
+Ledge A (Top, Width 1)|段差A（上端・幅1マス）
+Ledge A (V, Width 1)|段差A（縦・幅1マス）
+Suspension Bridge (H, Bottom)|吊り橋（横・下側）
+Suspension Bridge (H, Bottom)|吊り橋（横・下側）
+Suspension Bridge (H, Bottom)|吊り橋（横・下側）
+|
+Ledge A (Width 1)|段差A（幅1マス）
+Ledge A (Width 1)|段差A（幅1マス）
+Ledge A (Width 1)|段差A（幅1マス）
+Ledge A (H, Width 1)|段差A（横・幅1マス）
+Suspension Bridge (H, Bottom)|吊り橋（横・下側）
+Suspension Bridge (H, Bottom)|吊り橋（横・下側）
+Suspension Bridge (H, Bottom)|吊り橋（横・下側）
+Shadow (Suspension Bridge)|影（吊り橋）
+Ledge A (Top, Darkness, Width 1)|段差A（上端・暗闇・幅1マス）
+Ledge A (Top, Light, Width 1)|段差A（上端・光・幅1マス）
+Ledge A (V, Left Half)|段差A（縦・左半分）
+Ledge A (V, Right Half)|段差A（縦・右半分）
+Stone Stairs A|石の階段A
+Stone Stairs A|石の階段A
+Stone Stairs A|石の階段A
+Stone Stairs B|石の階段B
+Stone Stairs B|石の階段B
+Stone Stairs B|石の階段B
+Shadow (Stone Stairs)|影（石の階段）
+|
+Stone Stairs A|石の階段A
+Stone Stairs A|石の階段A
+Stone Stairs A|石の階段A
+Stone Stairs B|石の階段B
+Stone Stairs B|石の階段B
+Stone Stairs B|石の階段B
+Shadow (Stone Stairs)|影（石の階段）
+|
+Stone Stairs A|石の階段A
+Stone Stairs A|石の階段A
+Stone Stairs A|石の階段A
+Stone Stairs B|石の階段B
+Stone Stairs B|石の階段B
+Stone Stairs B|石の階段B
+Shadow (Stone Stairs)|影（石の階段）
+|
+Wood Stairs A|木の階段A
+Wood Stairs A|木の階段A
+Wood Stairs A|木の階段A
+Wood Stairs B|木の階段B
+Wood Stairs B|木の階段B
+Wood Stairs B|木の階段B
+Ladder A|はしごA
+Ladder B|はしごB
+Wood Stairs A|木の階段A
+Wood Stairs A|木の階段A
+Wood Stairs A|木の階段A
+Wood Stairs B|木の階段B
+Wood Stairs B|木の階段B
+Wood Stairs B|木の階段B
+Ladder A|はしごA
+Ladder B|はしごB
+Wood Stairs A|木の階段A
+Wood Stairs A|木の階段A
+Wood Stairs A|木の階段A
+Wood Stairs B|木の階段B
+Wood Stairs B|木の階段B
+Wood Stairs B|木の階段B
+Ladder A|はしごA
+Ladder B|はしごB
+Stone Pillar A|石の柱A
+Stone Pillar B|石の柱B
+Stone Pillar C|石の柱C
+Stone Pillar D|石の柱D
+Stone Pillar E|石の柱E
+Stone Pillar F|石の柱F
+Stone Pillar G|石の柱G
+Stone Pillar H|石の柱H
+Stone Pillar A|石の柱A
+Stone Pillar B|石の柱B
+Stone Pillar C|石の柱C
+Stone Pillar D|石の柱D
+Stone Pillar E|石の柱E
+Stone Pillar F|石の柱F
+Stone Pillar G (Lower Half A)|石の柱G（下半分A）
+Stone Pillar G (Lower Half B)|石の柱G（下半分B）
+Stone Pillar H (Broken)|壊れた石の柱H
+Stone Pillar H (Fallen)|倒れた石の柱H
+Stone Pillar H|石の柱H
+Stone Pillar H (Broken)|壊れた石の柱H
+Monument A|石碑A
+Monument A|石碑A
+Monument A|石碑A
+Monument A (Broken)|壊れた石碑A
+Stone Pillar H (Broken)|壊れた石の柱H
+Stone Pillar H (Fallen)|倒れた石の柱H
+Stone Pillar H|石の柱H
+Stone Pillar H (Broken)|壊れた石の柱H
+Monument A|石碑A
+Monument A|石碑A
+Monument A|石碑A
+Monument A (Broken)|壊れた石碑A
+Stone Pillar H (Fallen)|倒れた石の柱H
+Stone Pillar H (Fallen)|倒れた石の柱H
+Stone Pillar H (Fallen)|倒れた石の柱H
+Stone Pillar H (Fallen)|倒れた石の柱H
+Monument B|石碑B
+Monument B|石碑B
+Monument B|石碑B
+Monument B (Broken)|壊れた石碑B
+Stone Pillar H (Fallen)|倒れた石の柱H
+Stone Pillar H (Fallen)|倒れた石の柱H
+Stone Pillar H (Fallen)|倒れた石の柱H
+Stone Pillar H (Fallen)|倒れた石の柱H
+Monument B|石碑B
+Monument B|石碑B
+Monument B|石碑B
+Monument B (Broken)|壊れた石碑B
+Stone Pillar I (Broken)|壊れた石の柱I
+Stone Pillar I (Fallen)|倒れた石の柱I
+Stone Pillar I|石の柱I
+Stone Pillar I (Broken)|壊れた石の柱I
+Monument C|石碑C
+Monument C|石碑C
+Monument C|石碑C
+Monument C (Broken)|壊れた石碑C
+Stone Pillar I (Broken)|壊れた石の柱I
+Stone Pillar I (Fallen)|倒れた石の柱I
+Stone Pillar I|石の柱I
+Stone Pillar I (Broken)|壊れた石の柱I
+Monument C|石碑C
+Monument C|石碑C
+Monument C|石碑C
+Monument C (Broken)|壊れた石碑C
+Stone Pillar I (Fallen)|倒れた石の柱I
+Stone Pillar I (Fallen)|倒れた石の柱I
+Stone Pillar I (Fallen)|倒れた石の柱I
+Stone Pillar I (Fallen)|倒れた石の柱I
+Large Monument|大きな石碑
+Large Monument|大きな石碑
+Large Monument|大きな石碑
+Shadow (Large Monument)|影（大きな石碑）
+Stone Pillar I (Fallen)|倒れた石の柱I
+Stone Pillar I (Fallen)|倒れた石の柱I
+Stone Pillar I (Fallen)|倒れた石の柱I
+Stone Pillar I (Fallen)|倒れた石の柱I
+Large Monument|大きな石碑
+Large Monument|大きな石碑
+Large Monument|大きな石碑
+Shadow (Large Monument)|影（大きな石碑）
+Rubble A|瓦礫A
+Rubble B|瓦礫B
+|
+|
+Large Monument|大きな石碑
+Large Monument|大きな石碑
+Large Monument|大きな石碑
+Shadow (Large Monument)|影（大きな石碑）
+|
+|
+|
+|
+Large Monument (Buried)|埋もれた大きな石碑
+Large Monument (Buried)|埋もれた大きな石碑
+Large Monument (Buried)|埋もれた大きな石碑
+Large Monument (Broken)|壊れた大きな石碑
+Fencepost E (Left Side)|柵E（左）
+Fencepost E (Right Side)|柵E（右）
+|
+|
+Large Monument (Buried)|埋もれた大きな石碑
+Large Monument (Buried)|埋もれた大きな石碑
+Large Monument (Buried)|埋もれた大きな石碑
+Large Monument (Broken)|壊れた大きな石碑
+Fencepost E (Left Side)|柵E（左）
+Fencepost E (Right Side)|柵E（右）
+Fencepost E (Upside)|柵E（上）
+Fencepost E (Upside)|柵E（上）
+Fencepost E (Upside)|柵E（上）
+|
+Ledge C (Top, Shadow)|段差C（上端・影）
+Ledge C (Top, Shadow)|段差C（上端・影）
+Fencepost E (Left Side)|柵E（左）
+Fencepost E (Right Side)|柵E（右）
+Fencepost E (Upside)|柵E（上）
+Fencepost E (Upside)|柵E（上）
+Fencepost E (Upside)|柵E（上）
+Ledge C (Top)|段差C（上端）
+Ledge C (Top)|段差C（上端）
+Ledge C (Top)|段差C（上端）
+Fencepost E (Left Side)|柵E（左）
+Fencepost E (Right Side)|柵E（右）
+Fencepost E (Downside)|柵E（下）
+Fencepost E (Downside)|柵E（下）
+Fencepost E (Downside)|柵E（下）
+Ledge C (Top)|段差C（上端）
+Ledge C (Shadow, Center)|段差C（影・中央）
+Ledge C (Shadow, Right)|段差C（影・右）

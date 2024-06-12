@@ -1,0 +1,32 @@
+﻿Meadow|草地
+Deep Meadow|濃い草地
+Bush A|茂みA
+Flower Zone A|花畑A
+Meadow|草地
+Dirt|土
+Bush B|茂みB
+Bush C|茂みC
+Dirt A (Meadow)|土A（草地）
+Dirt B (Meadow)|土B（草地）
+Road A (Meadow)|道A（草地）
+Road B (Meadow)|道B（草地）
+Little Ledge A|低い段差A
+Little Ledge B|低い段差B
+Hole (Meadow)|穴（草地）
+Fencepost A|柵A
+Little Ledge (Meadow)|低い段差（草地）
+Flower Zone B|花畑B
+Dead Grass|枯れ草
+River Beach|河原
+Road A|道A
+Flower Zone C|花畑C
+Flower Zone D|花畑D
+Fencepost B|柵B
+Dirt C (Meadow)|土C（草地）
+Road C|道C
+River Beach (Boudary with Meadow)|河原（草地との境界）
+Water A (Shallow)|浅い水場A
+Water B (Shallow)|浅い水場B
+Puddle|水たまり
+Road D|道D
+Fencepost C|柵C

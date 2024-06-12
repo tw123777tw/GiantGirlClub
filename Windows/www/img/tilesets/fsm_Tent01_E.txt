@@ -1,0 +1,256 @@
+﻿|
+Tent|テント
+Tent|テント
+Tent|テント
+|
+Log Table B|丸太のテーブルB
+Log Table C|丸太のテーブルC
+Log Table A|丸太のテーブルA
+Tent|テント
+Tent|テント
+Tent|テント
+Tent|テント
+Tent|テント
+Tent|テント
+Tent|テント
+Log Table|丸太のテーブル
+Tent|テント
+Tent|テント
+Tent|テント
+Tent|テント
+Tent|テント
+Tent|テント
+Tent|テント
+Log Stool|丸太のイス
+Tent|テント
+Tent|テント
+Tent|テント
+Tent|テント
+Tent|テント
+Entrance A (Tent)|テントの入口A
+Entrance B (Tent)|テントの入口B
+Entrance C (Tent)|テントの入口C
+Tent|テント
+Tent|テント
+Tent|テント
+Tent|テント
+Tent|テント
+Entrance A (Tent)|テントの入口A
+Entrance B (Tent)|テントの入口B
+Entrance C (Tent)|テントの入口C
+Chimney A|煙突A
+Chimney B|煙突B
+Pink Mushrooms A|ピンクのキノコA
+|
+Mushroom House A|キノコの家A
+Mushroom House A|キノコの家A
+Mushroom House A|キノコの家A
+|
+Pink Mushroom B|ピンクのキノコB
+Pink Mushroom B|ピンクのキノコB
+Pink Mushroom C|ピンクのキノコC
+Mushroom House A|キノコの家A
+Mushroom House A|キノコの家A
+Mushroom House A|キノコの家A
+Mushroom House A|キノコの家A
+Mushroom House A|キノコの家A
+Pink Mushroom B|ピンクのキノコB
+Pink Mushroom B|ピンクのキノコB
+Pink Mushroom D|ピンクのキノコD
+Mushroom House A|キノコの家A
+Mushroom House A|キノコの家A
+Mushroom House A|キノコの家A
+Mushroom House A|キノコの家A
+Mushroom House A|キノコの家A
+Window A (Mushroom House A)|窓A（キノコの家A）
+Entrance (Mushroom House A)|入口（キノコの家A）
+Window B (Mushroom House A)|窓B（キノコの家A）
+Mushroom House A|キノコの家A
+Mushroom House A|キノコの家A
+Mushroom House A|キノコの家A
+Mushroom House A|キノコの家A
+Mushroom House A|キノコの家A
+Window A (Mushroom House)|窓A（キノコの家）
+Entrance (Mushroom House)|入口（キノコの家）
+Window B (Mushroom House)|窓B（キノコの家）
+Mushroom House A|キノコの家A
+Mushroom House A|キノコの家A
+Mushroom House A|キノコの家A
+Mushroom House A|キノコの家A
+Mushroom House A|キノコの家A
+Chimney C|煙突C
+Chimney D|煙突D
+Yellow Mushrooms A|黄色いキノコA
+|
+Mushroom House B|キノコの家B
+Mushroom House B|キノコの家B
+Mushroom House B|キノコの家B
+|
+Yellow Mushrooms B|黄色いキノコB
+Yellow Mushrooms B|黄色いキノコB
+Yellow Mushrooms C|黄色いキノコC
+Mushroom House B|キノコの家B
+Mushroom House B|キノコの家B
+Mushroom House B|キノコの家B
+Mushroom House B|キノコの家B
+Mushroom House B|キノコの家B
+Yellow Mushrooms B|黄色いキノコB
+Yellow Mushrooms B|黄色いキノコB
+Yellow Mushrooms D|黄色いキノコD
+Mushroom House B|キノコの家B
+Mushroom House B|キノコの家B
+Mushroom House B|キノコの家B
+Mushroom House B|キノコの家B
+Mushroom House B|キノコの家B
+Window A (Mushroom House B)|窓A（キノコの家B）
+Entrance (Mushroom House B)|入口（キノコの家B）
+Window B (Mushroom House B)|窓B（キノコの家B）
+Mushroom House B|キノコの家B
+Mushroom House B|キノコの家B
+Mushroom House B|キノコの家B
+Mushroom House B|キノコの家B
+Mushroom House B|キノコの家B
+Table A|テーブルA
+Table B|テーブルB
+Table C|テーブルC
+Stool A|イスA
+Round Table B|丸テーブルB
+Round Table A|丸テーブルA
+Table D|テーブルD
+Table D|テーブルD
+Wall (Tent)|テントの壁
+Wall (Tent)|テントの壁
+Wall (Tent)|テントの壁
+Wall (Tent)|テントの壁
+Wall (Tent)|テントの壁
+Round Table|丸テーブル
+Table D|テーブルD
+Table D|テーブルD
+Wall (Tent)|テントの壁
+Wall (Tent)|テントの壁
+Wall (Tent)|テントの壁
+Wall (Tent)|テントの壁
+Wall (Tent)|テントの壁
+Mattress A|マットレスA
+Mattress A (Blanket)|マットレスA（毛布）
+Blanket|毛布
+Wall (Tent)|テントの壁
+Wall (Tent)|テントの壁
+Wall (Tent)|テントの壁
+Wall (Tent)|テントの壁
+Wall (Tent)|テントの壁
+Mattress A|マットレスA
+Mattress A (Blanket)|マットレスA（毛布）
+Blanket|毛布
+Floor (Tent)|テントの床
+Floor (Tent)|テントの床
+Floor (Tent)|テントの床
+Floor (Tent)|テントの床
+Floor (Tent)|テントの床
+Baggage A|荷物A
+Baggage B|荷物B
+Baggage C|荷物C
+Floor (Tent)|テントの床
+Floor (Tent)|テントの床
+Floor (Tent)|テントの床
+Floor (Tent)|テントの床
+Floor (Tent)|テントの床
+Baggage D|荷物D
+Baggage E|荷物E
+Mattress B|マットレスB
+Floor (Tent)|テントの床
+Floor (Tent)|テントの床
+Floor (Tent)|テントの床
+Floor (Tent)|テントの床
+Floor (Tent)|テントの床
+Baggage D|荷物D
+Baggage E|荷物E
+Mattress B|マットレスB
+Floor (Tent)|テントの床
+Floor (Tent)|テントの床
+Floor (Tent)|テントの床
+Floor (Tent)|テントの床
+Floor (Tent)|テントの床
+Floor (Tent)|テントの床
+Floor (Tent)|テントの床
+Floor (Tent)|テントの床
+Wall (Mushroom House)|キノコの家の壁
+Wall (Mushroom House)|キノコの家の壁
+Wall (Mushroom House)|キノコの家の壁
+Wall (Mushroom House)|キノコの家の壁
+Wall (Mushroom House)|キノコの家の壁
+Wall (Mushroom House)|キノコの家の壁
+Window (Mushroom House)|キノコの家の窓
+Window (Mushroom House)|キノコの家の窓
+Wall (Mushroom House)|キノコの家の壁
+Wall (Mushroom House)|キノコの家の壁
+Wall (Mushroom House)|キノコの家の壁
+Wall (Mushroom House)|キノコの家の壁
+Wall (Mushroom House)|キノコの家の壁
+Wall (Mushroom House)|キノコの家の壁
+Window (Mushroom House)|キノコの家の窓
+Window (Mushroom House)|キノコの家の窓
+Wall (Mushroom House)|キノコの家の壁
+Floor (Mushroom House)|キノコの家の床
+Floor (Mushroom House)|キノコの家の床
+Floor (Mushroom House)|キノコの家の床
+Floor (Mushroom House)|キノコの家の床
+Wall (Mushroom House)|キノコの家の壁
+Floor (Mushroom House)|キノコの家の床
+Floor (Mushroom House)|キノコの家の床
+Floor (Mushroom House)|キノコの家の床
+Floor (Mushroom House)|キノコの家の床
+Floor (Mushroom House)|キノコの家の床
+Floor (Mushroom House)|キノコの家の床
+Floor (Mushroom House)|キノコの家の床
+Floor (Mushroom House)|キノコの家の床
+Cabinet A|戸棚A
+Cabinet B|戸棚B
+Floor (Mushroom House)|キノコの家の床
+Floor (Mushroom House)|キノコの家の床
+Floor (Mushroom House)|キノコの家の床
+Floor (Mushroom House)|キノコの家の床
+Floor (Mushroom House)|キノコの家の床
+Floor (Mushroom House)|キノコの家の床
+Cabinet A|戸棚A
+Cabinet B|戸棚B
+Floor (Mushroom House)|キノコの家の床
+Floor (Mushroom House)|キノコの家の床
+Floor (Mushroom House)|キノコの家の床
+Floor (Mushroom House)|キノコの家の床
+Floor (Mushroom House)|キノコの家の床
+Floor (Mushroom House)|キノコの家の床
+Stool B|イスB
+Vase|花瓶
+Floor (Mushroom House)|キノコの家の床
+Floor (Mushroom House)|キノコの家の床
+Floor (Mushroom House)|キノコの家の床
+Floor (Mushroom House)|キノコの家の床
+Floor (Mushroom House)|キノコの家の床
+Floor (Mushroom House)|キノコの家の床
+Table E|テーブルE
+Table F|テーブルF
+Wall (Mushroom House)|キノコの家の壁
+Closet A|クローゼットA
+Floor (Mushroom House)|キノコの家の床
+Floor (Mushroom House)|キノコの家の床
+Closet B|クローゼットB
+Wall (Mushroom House)|キノコの家の壁
+Bed|ベッド
+Table F|テーブルF
+Wall (Mushroom House)|キノコの家の壁
+Closet A|クローゼットA
+Shelf A|棚A
+Shelf B|棚B
+Closet B|クローゼットB
+Wall (Mushroom House)|キノコの家の壁
+Bed|ベッド
+Bed|ベッド
+Wall (Mushroom House)|キノコの家の壁
+Wall (Mushroom House)|キノコの家の壁
+Wall (Mushroom House)|キノコの家の壁
+Wall (Mushroom House)|キノコの家の壁
+Wall (Mushroom House)|キノコの家の壁
+Wall (Mushroom House)|キノコの家の壁
+Bed|ベッド
+Bed|ベッド

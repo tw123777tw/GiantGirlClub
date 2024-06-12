@@ -1,0 +1,128 @@
+﻿Darkness|暗闇
+River Beach|河原
+Cobblestones A|石畳A
+Cobblestones B|石畳B
+Cobblestones C|石畳C
+Cobblestones D|石畳D
+Cobblestones E|石畳E
+Cliff (Dirt)|崖（土）
+Transparent|透明
+Dirt A|土A
+Cobblestones A (Ruins)|石畳A（廃墟）
+Cobblestones B (Ruins)|石畳B（廃墟）
+Cobblestones C (Ruins)|石畳C（廃墟）
+Cobblestones D (Ruins)|石畳D（廃墟）
+Cobblestones E (Ruins)|石畳E（廃墟）
+Meadow (Dirt)|草地（土）
+Ledge A|段差A
+Meadow|草地
+Ledge A|段差A
+Ledge A|段差A
+Ledge A|段差A
+Ledge B|段差B
+Meadow|草地
+Ledge B|段差B
+Ledge A|段差A
+Ledge A|段差A
+Ledge A|段差A
+Ledge A|段差A
+Ledge A|段差A
+Ledge B|段差B
+Ledge B|段差B
+Ledge B|段差B
+Cliff (Height Over 2)|崖（高さ2マス以上）
+Cliff (Height Over 2)|崖（高さ2マス以上）
+Cliff (Height Over 2)|崖（高さ2マス以上）
+Ledge A|段差A
+Ledge A|段差A
+Cliff (Height 1)|崖（高さ1マス）
+Cliff (Height 1)|崖（高さ1マス）
+Cliff (Height 1)|崖（高さ1マス）
+Cliff (Height Over 2)|崖（高さ2マス以上）
+Cliff (Height Over 2)|崖（高さ2マス以上）
+Cliff (Height Over 2)|崖（高さ2マス以上）
+Ledge A (Shadow, Center)|段差A（影・中央）
+Ledge A (Shadow, Right)|段差A（影・右）
+Ledge B|段差B
+Ledge B|段差B
+Ledge B (Shadow, Right)|段差B（影・右）
+Ledge A|段差A
+Ledge A (Shadow, Center)|段差A（影・中央）
+Hole|穴
+Ledge A (Autotiles, Shadow, Center)|段差A（オートタイル用・影・中央）
+Ledge A (Autotiles, Shadow, Right)|段差A（オートタイル用・影・右）
+Ledge B|段差B
+Ledge B|段差B
+Ledge B (Shadow, Center)|段差B（影・中央）
+Cliff (Height Over 2)|崖（高さ2マス以上）
+Cliff (Height Over 2)|崖（高さ2マス以上）
+Cliff (Height Over 2)|崖（高さ2マス以上）
+Climbable Cliff (Height Over 2)|登れる崖（高さ2マス以上）
+Climbable Cliff (Height Over 2)|登れる崖（高さ2マス以上）
+Climbable Cliff (Height 1)|登れる崖（高さ1マス）
+Ledge B (Autotiles, Shadow, Center)|段差B（オートタイル用・影・中央）
+Ledge B (Autotiles, Shadow, Right)|段差B（オートタイル用・影・右）
+Stairs A (Left)|階段A（左）
+Stairs A (Center)|階段A（中央）
+Stairs A (Right)|階段A（右）
+Stairs B|階段B
+Cliff Decoration A|崖装飾A
+Cliff Decoration C|崖装飾C
+Cliff Decoration D|崖装飾D
+Cliff Decoration D|崖装飾D
+Stairs A (Left)|階段A（左）
+Stairs A (Center)|階段A（中央）
+Stairs A (Right)|階段A（右）
+Stairs B|階段B
+Cliff Decoration B|崖装飾B
+Cliff Decoration C|崖装飾C
+Cliff Decoration D|崖装飾D
+Cliff Decoration D|崖装飾D
+Stairs A (Height Over 2, Left)|階段A（高さ2マス以上・左）
+Stairs A (Height Over 2, Center)|階段A（高さ2マス以上・中央）
+Stairs A (Height Over 2, Right)|階段A（高さ2マス以上・右）
+Stairs B|階段B
+Cliff Decoration E|崖装飾E
+Cliff Decoration G|崖装飾G
+Cliff Decoration H|崖装飾H
+Cliff Decoration H|崖装飾H
+Stairs A (Ruins, Left)|階段A（廃墟・左）
+Stairs A (Ruins, Center)|階段A（廃墟・中央）
+Stairs A (Ruins, Right)|階段A（廃墟・右）
+Stairs B (Ruins)|階段B（廃墟）
+Cliff Decoration F|崖装飾F
+Cliff Decoration G|崖装飾G
+Cliff Decoration H|崖装飾H
+Cliff Decoration H|崖装飾H
+Stairs A (Ruins, Left)|階段A（廃墟・左）
+Stairs A (Ruins, Center)|階段A（廃墟・中央）
+Stairs A (Ruins, Right)|階段A（廃墟・右）
+Stairs B (Ruins)|階段B（廃墟）
+Cliff (Ledge B, Left)|崖（段差B・左）
+Cliff (Ledge B, Right)|崖（段差B・右）
+Cliff (Ledge B, Left)|崖（段差B・左）
+Cliff (Ledge B, Right)|崖（段差B・右）
+Stairs A (Height Over 2, Ruins, Left)|階段A（高さ2マス以上・廃墟・左）
+Stairs A (Height Over 2, Ruins, Center)|階段A（高さ2マス以上・廃墟・中央）
+Stairs A (Height Over 2, Ruins, Right)|階段A（高さ2マス以上・廃墟・右）
+Stairs B (Ruins)|階段B（廃墟）
+Dirt C (Meadow)|土C（草地）
+Dirt C (Meadow)|土C（草地）
+Dirt C (Meadow)|土C（草地）
+Dirt C (Meadow)|土C（草地）
+Stairs A (Height 1, Left)|階段A（高さ1マス・左）
+Stairs A (Height 1, Center)|階段A（高さ1マス・中央）
+Stairs A (Height 1, Right)|階段A（高さ1マス・右）
+Cliff Decoration I|崖装飾I
+Cliff Decoration J|崖装飾J
+Cliff Decoration K|崖装飾K
+Dirt C (Meadow)|土C（草地）
+Dirt C (Meadow)|土C（草地）
+Stairs A (Height 1, Ruins, Left)|階段A（高さ1マス・廃墟・左）
+Stairs A (Height 1, Ruins, Center)|階段A（高さ1マス・廃墟・中央）
+Stairs A (Height 1, Ruins, Right)|階段A（高さ1マス・廃墟・右）
+Cliff Decoration L|崖装飾L
+Cliff Decoration M|崖装飾M
+Cliff Decoration N|崖装飾N
+Dirt C (Meadow)|土C（草地）
+Dirt C (Meadow)|土C（草地）

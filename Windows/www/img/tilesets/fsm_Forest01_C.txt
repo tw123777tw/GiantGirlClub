@@ -1,0 +1,256 @@
+﻿Tree Trunk A|木の幹A
+Tree Trunk B|木の幹B
+Tree Trunk C|木の幹C
+Leaf A|木の葉A
+Leaf A|木の葉A
+Leaf A|木の葉A
+Leaf|木の葉
+Leaf|木の葉
+Tree Trunk A|木の幹A
+Tree Trunk B|木の幹B
+Tree Trunk C|木の幹C
+Leaf A|木の葉A
+|
+Leaf A|木の葉A
+Leaf A|木の葉A
+Leaf A|木の葉A
+Tree Trunk A|木の幹A
+Tree Trunk B|木の幹B
+Tree Trunk A|木の幹A
+Leaf A|木の葉A
+Leaf A|木の葉A
+Leaf A|木の葉A
+|
+|
+Large Tree|大きな木
+Large Tree|大きな木
+Large Tree|大きな木
+Leaf B|木の葉B
+Leaf B|木の葉B
+Leaf B|木の葉B
+Leaf|木の葉
+Leaf|木の葉
+Large Tree|大きな木
+Large Tree|大きな木
+Large Tree|大きな木
+Leaf B|木の葉B
+|
+Leaf B|木の葉B
+Leaf B|木の葉B
+Leaf B|木の葉B
+Large Tree|大きな木
+Large Tree|大きな木
+Large Tree|大きな木
+Leaf B|木の葉B
+|
+Leaf B|木の葉B
+Shadow (Leaf B)|影（木の葉B）
+Shadow (Leaf B)|影（木の葉B）
+Large Tree|大きな木
+Large Tree|大きな木
+Large Tree|大きな木
+Leaf B|木の葉B
+Leaf B|木の葉B
+Leaf B|木の葉B
+Leaf|木の葉
+Leaf|木の葉
+Large Tree|大きな木
+Large Tree|大きな木
+Large Tree|大きな木
+Shadow (Leaf B)|影（木の葉B）
+Shadow (Leaf B)|影（木の葉B）
+Shadow (Leaf B)|影（木の葉B）
+Leaf B|木の葉B
+Leaf B|木の葉B
+Leaf|木の葉
+Leaf|木の葉
+Leaf|木の葉
+|
+Leaf C|木の葉C
+Leaf C|木の葉C
+Leaf B|木の葉B
+Leaf B|木の葉B
+Leaf A|木の葉A
+Leaf A|木の葉A
+Leaf A|木の葉A
+Leaf A|木の葉A
+Leaf C|木の葉C
+Leaf C|木の葉C
+|
+Leaf|木の葉
+Leaf B|木の葉B
+Leaf B|木の葉B
+Leaf B|木の葉B
+Leaf B|木の葉B
+|
+Leaf|木の葉
+Leaf|木の葉
+Leaf|木の葉
+Shadow (Leaf B)|影（木の葉B）
+Shadow (Leaf B)|影（木の葉B）
+Shadow (Leaf B)|影（木の葉B）
+Shadow (Leaf B)|影（木の葉B）
+|
+|
+Forest A|森A
+Forest A|森A
+Forest A (Sneak Through)|森A（すり抜け）
+Forest A (Sneak Through)|森A（すり抜け）
+Forest A (Sneak Through)|森A（すり抜け）
+Forest B (Sneak Through)|森B（すり抜け）
+Forest B (Sneak Through)|森B（すり抜け）
+Forest B (Sneak Through)|森B（すり抜け）
+Forest A (Sneak Through)|森A（すり抜け）
+Forest A (Sneak Through)|森A（すり抜け）
+Forest A (Sneak Through)|森A（すり抜け）
+Forest A (Sneak Through)|森A（すり抜け）
+Forest A (Sneak Through)|森A（すり抜け）
+Forest B (Sneak Through)|森B（すり抜け）
+Forest B (Sneak Through)|森B（すり抜け）
+Forest B (Sneak Through)|森B（すり抜け）
+Forest B (Sneak Through)|森B（すり抜け）
+Forest B (Sneak Through)|森B（すり抜け）
+Forest A (Sneak Through)|森A（すり抜け）
+Forest A (Sneak Through)|森A（すり抜け）
+Forest A (Sneak Through)|森A（すり抜け）
+Forest B (Sneak Through)|森B（すり抜け）
+Forest B (Sneak Through)|森B（すり抜け）
+Forest B (Sneak Through)|森B（すり抜け）
+Forest B (Sneak Through)|森B（すり抜け）
+Forest B (Sneak Through)|森B（すり抜け）
+|
+Big Tree A|大樹A
+Big Tree A|大樹A
+Big Tree A|大樹A
+Big Tree A|大樹A
+Big Tree A|大樹A
+|
+Entrance (Big Tree A)|入口（大樹A）
+|
+Big Tree A|大樹A
+Big Tree A|大樹A
+Big Tree A|大樹A
+Big Tree A|大樹A
+Big Tree A|大樹A
+|
+Big Tree A|大樹A
+|
+Big Tree A|大樹A
+Big Tree A|大樹A
+Big Tree A|大樹A
+Big Tree A|大樹A
+Big Tree A|大樹A
+|
+Big Tree A|大樹A
+Big Tree A|大樹A
+Big Tree A|大樹A
+Big Tree A|大樹A
+Big Tree A|大樹A
+Big Tree A|大樹A
+Big Tree A|大樹A
+Big Tree A|大樹A
+Big Tree A|大樹A
+Big Tree A|大樹A
+Big Tree A|大樹A
+Big Tree A|大樹A
+Big Tree A|大樹A
+Big Tree A|大樹A
+Big Tree A|大樹A
+Big Tree A|大樹A
+Big Tree A|大樹A
+Big Tree A|大樹A
+Big Tree A|大樹A
+Big Tree A|大樹A
+Big Tree A|大樹A
+Big Tree A|大樹A
+Big Tree A|大樹A
+Big Tree A|大樹A
+Shadow (Big Tree A)|影（大樹A）
+Shadow (Big Tree A)|影（大樹A）
+Big Tree A|大樹A
+Big Tree A|大樹A
+Big Tree A|大樹A
+Big Tree A|大樹A
+Big Tree A|大樹A
+Shadow (Big Tree A)|影（大樹A）
+Ladder (Big Tree A)|はしご（大樹A）
+|
+Shadow (Big Tree A)|影（大樹A）
+Shadow (Big Tree A)|影（大樹A）
+Shadow (Big Tree A)|影（大樹A）
+Shadow (Big Tree A)|影（大樹A）
+Shadow (Big Tree A)|影（大樹A）
+|
+Ladder (Big Tree A)|はしご（大樹A）
+|
+Big Tree B|大樹B
+Big Tree B|大樹B
+Big Tree B|大樹B
+Big Tree B|大樹B
+|
+|
+Ladder (Big Tree A)|はしご（大樹A）
+Big Tree B|大樹B
+Big Tree B|大樹B
+Big Tree B|大樹B
+Big Tree B|大樹B
+Big Tree B|大樹B
+Big Tree B|大樹B
+|
+Ladder (Big Tree A)|はしご（大樹A）
+Big Tree B|大樹B
+Big Tree B|大樹B
+Big Tree B|大樹B
+Big Tree B|大樹B
+Big Tree B|大樹B
+Big Tree B|大樹B
+Big Tree B|大樹B
+Ladder (Big Tree A)|はしご（大樹A）
+Big Tree B|大樹B
+Big Tree B|大樹B
+Big Tree B|大樹B
+Big Tree B|大樹B
+Big Tree B|大樹B
+Big Tree B|大樹B
+Big Tree B|大樹B
+Entrance (Big Tree A)|入口（大樹A）
+Big Tree B|大樹B
+Big Tree B|大樹B
+Big Tree B|大樹B
+Big Tree B|大樹B
+Big Tree B|大樹B
+Big Tree B|大樹B
+Big Tree B|大樹B
+Ladder (Big Tree A)|はしご（大樹A）
+Big Tree B|大樹B
+Big Tree B|大樹B
+Big Tree B|大樹B
+Big Tree B|大樹B
+Big Tree B|大樹B
+Big Tree B|大樹B
+Shadow (Big Tree B)|影（大樹B）
+Ladder (Big Tree A)|はしご（大樹A）
+Shadow (Big Tree B)|影（大樹B）
+Big Tree B|大樹B
+Big Tree B|大樹B
+Big Tree B|大樹B
+Big Tree B|大樹B
+Big Tree B|大樹B
+Shadow (Big Tree B)|影（大樹B）
+Ladder (Big Tree A)|はしご（大樹A）
+|
+Shadow (Big Tree B)|影（大樹B）
+Big Tree B|大樹B
+Big Tree B|大樹B
+Big Tree B|大樹B
+Shadow (Big Tree B)|影（大樹B）
+Shadow (Big Tree B)|影（大樹B）
+Ladder (Big Tree A)|はしご（大樹A）
+|
+Shadow (Big Tree B)|影（大樹B）
+Big Tree B|大樹B
+Big Tree B|大樹B
+Big Tree B|大樹B
+Shadow (Big Tree B)|影（大樹B）
+|
+Shadow (Big Tree A)|影（大樹A）

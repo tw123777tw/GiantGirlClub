@@ -1,0 +1,32 @@
+﻿Ground A|床A
+Dark Ground A|濃い床A
+Moss on Ground A|床の苔A
+Hole A|穴A
+Gravel|砂利
+Moss|苔
+Hole B (Wooden Floor B)|穴B（板床B）
+Table|テーブル
+Gravel Ground A|砂利の床A
+Wooden Floor A (Ground A)|板床A
+Wooden Floor B|板床B
+Carpet|カーペット
+Little Ledge A|低い段差A
+Little Ledge B|低い段差B
+Shallow Water|浅い水場
+Dark Ground B|濃い床B
+Road (Ground)|埋もれた道
+Gravel Ground B|砂利の床B
+Wooden Floor B (Ground A)|埋もれた板床B
+Moss on Ground B|床の苔B
+Earth A|土砂A
+Earth B|土砂B
+Fencepost A|柵A
+Fencepost B|柵B
+Hard Ground|固い床
+Gravel Ground C|砂利の床C
+Hollow|窪地
+Gravel Ground D|砂利の床D
+Road|道
+Puddle|水たまり
+Poison Swamp|毒の沼
+Fencepost C|柵C

@@ -1,0 +1,256 @@
+﻿Transparent|透明
+Grass A|草A
+Grass B|草B
+Grass C|草C
+Flowers A|花A
+Flowers B|花B
+Flowers C|花C
+Flowers D|花D
+Grass D|草D
+Grass E|草E
+Grass F|草F
+Tree Branch|木の枝
+Grass G|草G
+Grass H|草H
+Grass H|草H
+Mushrooms|キノコ
+Stump A|切り株A
+Stump B|切り株B
+Small Tree A|小さな木A
+Small Tree B|小さな木B
+Boulder A|岩A
+Boulder B|岩B
+Boulder C|岩C
+Barricade A (V)|バリケードA（縦）
+Sign A|立て札A
+Sign B|立て札B
+Sign C|立て札C
+Sign D|立て札D
+Sign E|立て札E
+Sign F|立て札F
+Barricade A (H)|バリケードA（横）
+Barricade A (V)|バリケードA（縦）
+Fallen Log A (V)|倒木A（縦）
+Fallen Log B (H)|倒木B（横）
+Fallen Log B (H)|倒木B（横）
+Fallen Log B (V)|倒木B（縦）
+Bush A|植え込みA
+Tree A|木A
+Tree B|木B
+Tree B|木B
+Fallen Log A (V)|倒木A（縦）
+Fallen Log A (H)|倒木A（横）
+Fallen Log A (H)|倒木A（横）
+Fallen Log B (V)|倒木B（縦）
+Bush B|植え込みB
+Tree A|木A
+Tree B|木B
+Tree B|木B
+Ledge A (Top)|段差A（上端）
+Ledge A (Top)|段差A（上端）
+Ledge A (Top)|段差A（上端）
+Shadow|影
+Ledge A (Top)|段差A（上端）
+Ledge B (Top)|段差B（上端）
+Ledge B (Top)|段差B（上端）
+Ledge B (Top)|段差B（上端）
+Cliff (Bottom, Height Over 2)|崖（下端・高さ2マス以上）
+Cliff (Bottom, Height Over 2)|崖（下端・高さ2マス以上）
+Cliff (Bottom, Height Over 2)|崖（下端・高さ2マス以上）
+Shadow (Impassable)|影（通行不可）
+Ledge A (Top, Shadow)|段差A（上端・影）
+Ledge A (Top, Shadow)|段差A（上端・影）
+Ledge A (Top, Shadow)|段差A（上端・影）
+Ledge A (Top, Shadow)|段差A（上端・影）
+Shadow (Slope, Bottom)|坂の影（下端）
+Cliff (Bottom, Shadow, Center, Height Over 2)|崖（下端・影・中央・高さ2マス以上）
+Cliff (Bottom, Shadow, Right, Height Over 2)|崖（下端・影・右・高さ2マス以上）
+Shadow|影
+Shadow|影
+Ledge B (Top, Shadow)|段差B（上端・影）
+Ledge B (Top, Shadow)|段差B（上端・影）
+Ledge B (Top, Shadow)|段差B（上端・影）
+Stairs A (Bottom)|階段A（下端）
+Stairs A (Bottom)|階段A（下端）
+Stairs A (Bottom)|階段A（下端）
+Stairs B (Bottom)|階段B（下端）
+Shadow (Stairs B)|階段の影
+Cliff (Bottom, Height 1)|崖（下端・高さ1マス）
+Cliff (Bottom, Height 1)|崖（下端・高さ1マス）
+Cliff (Bottom, Height 1)|崖（下端・高さ1マス）
+Little Ledge D|低い段差D
+Little Ledge D|低い段差D
+Little Ledge D|低い段差D
+Little Ledge D (Shadow)|低い段差D（影）
+Little Ledge D|低い段差D
+Little Ledge D|低い段差D
+Little Ledge D (Shadow, Center)|低い段差D（影・中央）
+Little Ledge D (Shadow, Right)|低い段差D（影・右）
+Little Ledge D|低い段差D
+Little Ledge D|低い段差D
+Little Ledge D|低い段差D
+Stairs (Little Ledge D)|階段（低い段差D）
+Stairs (Little Ledge D)|階段（低い段差D）
+Stairs (Little Ledge D)|階段（低い段差D）
+Stairs (Little Ledge D)|階段（低い段差D）
+Stairs Shadow (Little Ledge D)|階段の影（低い段差D）
+Little Ledge D|低い段差D
+Little Ledge D|低い段差D
+Little Ledge D|低い段差D
+Stairs (Little Ledge D)|階段（低い段差D）
+Stairs (Little Ledge D)|階段（低い段差D）
+Stairs (Little Ledge D)|階段（低い段差D）
+Stairs (Little Ledge D)|階段（低い段差D）
+Stairs Shadow (Little Ledge D)|階段の影（低い段差D）
+Little Ledge D|低い段差D
+Little Ledge D|低い段差D
+Little Ledge D|低い段差D
+Little Ledge D|低い段差D
+Slope A|坂A
+Slope A|坂A
+Slope A|坂A
+Slope B|坂B
+Slope C (Little Ledge D)|坂C（低い段差D）
+Slope C (Little Ledge D)|坂C（低い段差D）
+Slope C (Little Ledge D)|坂C（低い段差D）
+Slope D (Little Ledge D)|坂D（低い段差D）
+Slope A|坂A
+Slope A|坂A
+Slope A|坂A
+Slope B|坂B
+Slope C (Little Ledge D)|坂C（低い段差D）
+Slope C (Little Ledge D)|坂C（低い段差D）
+Slope C (Little Ledge D)|坂C（低い段差D）
+Slope D (Little Ledge D)|坂D（低い段差D）
+Slope A|坂A
+Slope A|坂A
+Slope A|坂A
+Slope B|坂B
+Wall Vines A (Left)|壁のツタA（左）
+Wall Vines A (Center)|壁のツタA（中央）
+Wall Vines A (Right)|壁のツタA（右）
+Wall Vines B|壁のツタB
+Cave Entrance A (Vines)|洞窟入口A（ツタ）
+Cave Entrance A (Vines)|洞窟入口A（ツタ）
+Cave Entrance A (Vines)|洞窟入口A（ツタ）
+Cave Entrance B (Vines)|洞窟入口B（ツタ）
+Wall Vines A (Left)|壁のツタA（左）
+Wall Vines A (Center)|壁のツタA（中央）
+Wall Vines A (Right)|壁のツタA（右）
+Wall Vines B|壁のツタB
+Cave Entrance A|洞窟入口A
+Cave Entrance A|洞窟入口A
+Cave Entrance A|洞窟入口A
+Cave Entrance B|洞窟入口B
+Wall Vines A (Left)|壁のツタA（左）
+Wall Vines A (Center)|壁のツタA（中央）
+Wall Vines A (Right)|壁のツタA（右）
+Wall Vines B|壁のツタB
+Cave Entrance A|洞窟入口A
+Cave Entrance A|洞窟入口A
+Cave Entrance A|洞窟入口A
+Cave Entrance B|洞窟入口B
+Grass A (Wall Side)|壁際の草A
+Grass B (Wall Side)|壁際の草B
+Grass B (Wall Side)|壁際の草B
+Boulder A (Wall Side)|壁際の岩A
+Boulder B (Wall Side)|壁際の岩B
+Boulder B (Wall Side)|壁際の岩B
+Wall Grass A|壁の草A
+Wall Grass B|壁の草B
+Grass A (Wall Side)|壁際の草A
+Grass B (Wall Side)|壁際の草B
+Grass B (Wall Side)|壁際の草B
+Boulder A (Wall Side)|壁際の岩A
+Boulder B (Wall Side)|壁際の岩B
+Boulder B (Wall Side)|壁際の岩B
+Wall Grass A|壁の草A
+Wall Grass B|壁の草B
+Vines|ツタ
+Rope|ロープ
+Shadow|影
+Cliff (Water Edge)|水際の崖
+Cliff (Water Edge)|水際の崖
+Cliff (Water Edge)|水際の崖
+Grass A (Wall)|壁の草A
+Flowers A (Wall)|壁の花A
+Vines|ツタ
+Rope|ロープ
+Shadow|影
+Cliff (Water Edge)|水際の崖
+Cliff (Water Edge)|水際の崖
+Cliff (Water Edge)|水際の崖
+Grass B (Wall)|壁の草B
+Flowers B (Wall)|壁の花B
+Vines|ツタ
+Rope|ロープ
+Swamp Grass A|水草A
+Swamp Grass B|水草B
+Swamp Grass C|水草C
+Tree A (Water)|水場の木A
+Tree B (Water)|水場の木B
+Dead Tree (Water)|水場の枯れ木
+Vines (Down)|ツタ（下り）
+Rope (Down)|ロープ（下り）
+Floating Island|浮島
+Boulder A (Water)|水場の岩A
+Tree B (Water)|水場の木B
+Tree A (Water)|水場の木A
+Tree B (Water)|水場の木B
+Tree Branch (Water)|水底の枝
+Littele Ledge A|低い段差A
+Littele Ledge A|低い段差A
+Littele Ledge A|低い段差A
+Boulder B (Water)|水場の岩B
+Lotus Pads A|蓮の葉A
+Lotus Pads B|蓮の葉B
+Lotus Pads C|蓮の葉C
+Lotus Pads D|蓮の葉D
+Littele Ledge A|低い段差A
+|
+Littele Ledge A|低い段差A
+Crate A|木箱A
+Stacked Crates A (Upper left)|積まれた木箱A（左上）
+Stacked Crates A (Upper right)|積まれた木箱A（右上）
+Stacked Crates B|積まれた木箱B
+Stacked Crates B|積まれた木箱B
+Littele Ledge A|低い段差A
+Littele Ledge A|低い段差A
+Littele Ledge A|低い段差A
+Crate B|木箱B
+Stacked Crates A (Lower left)|積まれた木箱A（左下）
+Stacked Crates A (Lower right)|積まれた木箱A（右下）
+Stacked Crates B|積まれた木箱B
+Stacked Crates B|積まれた木箱B
+Wood Bridge (H, Broken)|壊れた木の橋（横）
+Wood Bridge (H, Broken)|壊れた木の橋（横）
+Wood Bridge (V, Broken)|壊れた木の橋（縦）
+Barricade B|バリケードB
+Barrel A|樽A
+Barrel B|樽B
+Log Bridge (V, Broken)|壊れた丸太の橋（縦）
+Log Bridge (V)|丸太の橋（縦）
+Wood Bridge (V)|木の橋（縦）
+Wood Bridge (V)|木の橋（縦）
+Wood Bridge (V, Broken)|壊れた木の橋（縦）
+Wood Bridge (V)|木の橋（縦）
+Wood Bridge (H)|木の橋（横）
+Log Bridge (V)|丸太の橋（縦）
+Log Bridge (V, Broken)|壊れた丸太の橋（縦）
+Log Bridge (V)|丸太の橋（縦）
+Wood Bridge (V)|木の橋（縦）
+Wood Bridge (V)|木の橋（縦）
+Wood Bridge (H)|木の橋（横）
+Wood Bridge (H)|木の橋（横）
+Wood Bridge (H)|木の橋（横）
+Log Bridge (H, Broken)|壊れた丸太の橋（横）
+Log Bridge (H, Broken)|壊れた丸太の橋（横）
+Log Bridge (V)|丸太の橋（縦）
+Wood Bridge (V)|木の橋（縦）
+Wood Bridge (V)|木の橋（縦）
+Wood Bridge (H)|木の橋（横）
+Wood Bridge (H)|木の橋（横）
+Wood Bridge (H)|木の橋（横）
+Log Bridge (H)|丸太の橋（横）
+Log Bridge (H)|丸太の橋（横）
+Log Bridge (H)|丸太の橋（横）

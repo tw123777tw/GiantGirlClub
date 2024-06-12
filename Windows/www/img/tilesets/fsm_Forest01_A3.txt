@@ -1,0 +1,32 @@
+﻿Roof A|屋根A
+Roof B|屋根B
+Roof C|屋根C
+Roof C (Moss A)|屋根C（苔A）
+Roof C (Moss B)|屋根C（苔B）
+|
+|
+|
+Outer Wall A|外壁A
+Outer Wall B|外壁B
+Outer Wall C|外壁C
+Outer Wall C (Moss A)|外壁C（苔A）
+Outer Wall C (Moss B)|外壁C（苔B）
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|

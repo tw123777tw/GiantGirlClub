@@ -1,0 +1,16 @@
+﻿Water (Myriad Roots)|水場（無数の根）
+Deep Water|深い水場
+Swamp Grass A|水草
+Rock (Can Walk)|歩ける岩
+Poison Swamp (Myriad Roots)|毒の沼（無数の根）
+Poison Swamp (Bubble)|毒の沼（泡）
+Poison Swamp (Meadow)|毒の沼（草地）
+Waterfall (Whole Surface)|滝（全面）
+Water (Whole Surface)|水場（全面）
+Waterfall|滝
+Water (Meadow)|水場（草地）
+Waterfall (Boulder)|滝（玉石）
+Water (Dirt)|水場（土）
+Waterfall (Boulder, Whole Surface)|滝（玉石・全面）
+Poison Swamp (Dirt)|毒の沼（土）
+|

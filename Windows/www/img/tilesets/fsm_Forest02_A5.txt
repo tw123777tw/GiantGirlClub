@@ -1,0 +1,128 @@
+﻿Darkness|暗闇
+Dirt A|土A
+Cobblestones A|石畳A
+Cobblestones B|石畳B
+Cobblestones C|石畳C
+Cobblestones D|石畳D
+Cobblestones E|石畳E
+Ledge C (Autotiles, Shadow, Center)|段差C（オートタイル用・影・中央）
+Transparent|透明
+Dirt B|土B
+Cobblestones A (Ruins)|石畳A（廃墟）
+Cobblestones B (Ruins)|石畳B（廃墟）
+Cobblestones C (Ruins)|石畳C（廃墟）
+Cobblestones D (Ruins)|石畳D（廃墟）
+Cobblestones E (Ruins)|石畳E（廃墟）
+Ledge C (Autotiles, Shadow, Right)|段差C（オートタイル用・影・右）
+Ledge A|段差A
+Myriad Roots|無数の根
+Ledge A|段差A
+Ledge A|段差A
+Ledge A|段差A
+Ledge B|段差B
+Meadow|草地
+Ledge B|段差B
+Ledge A|段差A
+Ledge A|段差A
+Ledge A|段差A
+Ledge A|段差A
+Ledge A|段差A
+Ledge B|段差B
+Ledge B|段差B
+Ledge B|段差B
+Cliff (Ledge A)|崖（段差A）
+Cliff (Ledge A)|崖（段差A）
+Cliff (Ledge A)|崖（段差A）
+Ledge A (Shadow, Center)|段差A（影・中央）
+Ledge A (Shadow, Right)|段差A（影・右）
+Ledge B|段差B
+Ledge B|段差B
+Ledge B (Shadow, Right)|段差B（影・右）
+Cliff|崖
+Cliff|崖
+Cliff|崖
+Ledge A (Shadow, Center)|段差A（影・中央）
+Ledge A (Shadow, Right)|段差A（影・右）
+Ledge B|段差B
+Ledge B|段差B
+Ledge B (Shadow, Center)|段差B（影・中央）
+Cliff|崖
+Cliff|崖
+Cliff|崖
+Cliff (Ledge A, Shadow, Center, Height 1)|崖（段差A・影・中央・高さ1マス）
+Ledge A (Autotiles, Shadow, Center)|段差A（オートタイル用・影・中央）
+Ledge A (Autotiles, Shadow, Right)|段差A（オートタイル用・影・右）
+Ledge B (Autotiles, Shadow, Center)|段差B（オートタイル用・影・中央）
+Ledge B (Autotiles, Shadow, Right)|段差B（オートタイル用・影・右）
+Cliff (Ledge A, Height 1)|崖（段差A・高さ1マス）
+Cliff (Ledge A, Height 1)|崖（段差A・高さ1マス）
+Cliff (Ledge A, Height 1)|崖（段差A・高さ1マス）
+Cliff (Ledge A, Shadow, Right, Height 1)|崖（段差A・影・右・高さ1マス）
+Ledge A (Autotiles, Shadow, Center)|段差A（オートタイル用・影・中央）
+Ledge A (Autotiles, Shadow, Right)|段差A（オートタイル用・影・右）
+Cliff Decoration A|崖装飾A
+Cliff Decoration B|崖装飾B
+Cliff (Bottom, Bush)|崖（下端・草付き）
+Cliff (Bottom, Bush)|崖（下端・草付き）
+Cliff (Bottom, Bush)|崖（下端・草付き）
+Cliff (Ledge A, Bottom, Bush, Height 1)|崖（段差A・下端・草付き・高さ1マス）
+Cliff (Ledge A, Bottom, Bush, Height 1)|崖（段差A・下端・草付き・高さ1マス）
+Cliff (Ledge A, Bottom, Bush, Height 1)|崖（段差A・下端・草付き・高さ1マス）
+Ledge A (Shadow, Center, Height 1)|段差A（影・中央・高さ1マス）
+Ledge A (Shadow, Right, Height 1)|段差A（影・右・高さ1マス）
+Stairs A (Ledge A, Left)|階段A（段差A・左）
+Stairs A (Ledge A, Center)|階段A（段差A・中央）
+Stairs A (Ledge A, Right)|階段A（段差A・右）
+Stairs B (Ledge A)|階段B（段差A）
+Ledge A|段差A
+Stairs A (Ledge B, Left)|階段A（段差B・左）
+Stairs A (Ledge B, Center)|階段A（段差B・中央）
+Stairs A (Ledge B, Right)|階段A（段差B・右）
+Stairs A (Ledge A, Left)|階段A（段差A・左）
+Stairs A (Ledge A, Center)|階段A（段差A・中央）
+Stairs A (Ledge A, Right)|階段A（段差A・右）
+Stairs B|階段B
+Cliff Decoration C (Ledge A)|崖装飾C（段差A）
+Stairs B (Ledge B)|階段B（段差B）
+Hole (Myriad Roots)|穴（無数の根）
+Hole (Meadow)|穴（草地）
+Stairs A (Left)|階段A（左）
+Stairs A (Center)|階段A（中央）
+Stairs A (Right)|階段A（右）
+Stairs B|階段B
+Cliff Decoration C (Ledge A)|崖装飾C（段差A）
+Cliff Decoration D|崖装飾D
+Cliff Decoration E|崖装飾E
+Cliff Decoration F|崖装飾F
+Stairs A (Left)|階段A（左）
+Stairs A (Center)|階段A（中央）
+Stairs A (Right)|階段A（右）
+Stairs B|階段B
+Cliff Decoration C (Ledge A)|崖装飾C（段差A）
+Cliff Decoration G|崖装飾G
+Cliff Decoration H|崖装飾H
+Cliff Decoration I|崖装飾I
+Stairs A (Ledge A, Left, Height 1)|階段A（段差A・左・高さ1マス）
+Stairs A (Ledge A, Center, Height 1)|階段A（段差A・中央・高さ1マス）
+Stairs A (Ledge A, Right, Height 1)|階段A（段差A・右・高さ1マス）
+Stairs B (Ledge A, Height 1)|階段B（段差A・高さ1マス）
+Cliff Decoration C (Ledge A, Bottom, Bush)|崖装飾C（段差A・下端・草付き）
+Cliff Decoration G (Ledge A, Height 1)|崖装飾G（段差A・高さ1マス）
+Cliff Decoration H (Ledge A, Height 1)|崖装飾H（段差A・高さ1マス）
+Cliff Decoration I (Ledge A, Height 1)|崖装飾I（段差A・高さ1マス）
+Stairs A (Bottom, Bush, Left)|階段A（下端・草付き・左）
+Stairs A (Bottom, Bush, Center)|階段A（下端・草付き・中央）
+Stairs A (Bottom, Bush, Right)|階段A（下端・草付き・右）
+Cliff Decoration C (Ledge A, Height 1)|崖装飾C（段差A・高さ1マス）
+Cliff Decoration C (Ledge A, Bush, Height 1)|崖装飾C（段差A・草付き・高さ1マス）
+Buried Root (Myriad Roots, V)|埋もれた根っこ（無数の根・縦）
+Buried Root (Meadow, V)|埋もれた根っこ（草地・縦）
+Dead Tree A (Poison Swamp)|枯れ木A（毒の沼）
+Buried Root (Myriad Roots, H)|埋もれた根っこ（無数の根・横）
+Buried Root (Myriad Roots, H)|埋もれた根っこ（無数の根・横）
+Buried Root (Meadow, H)|埋もれた根っこ（草地・横）
+Buried Root (Meadow, H)|埋もれた根っこ（草地・横）
+Buried Root (Dirt)|埋もれた根っこ（土）
+Buried Root (Myriad Roots, V)|埋もれた根っこ（無数の根・縦）
+Buried Root (Meadow, V)|埋もれた根っこ（草地・縦）
+Dead Tree B (Poison Swamp)|枯れ木B（毒の沼）

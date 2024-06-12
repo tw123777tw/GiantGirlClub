@@ -1,0 +1,256 @@
+﻿|
+Stove A|かまどA
+Stove B|かまどB
+Stump C|切り株C
+Stump D|切り株D
+Grave|墓
+Window A|窓A
+Window A (Shutter)|窓A（雨戸）
+Window A|窓A
+Window A (Shutter)|窓A（雨戸）
+Window A (Moss)|窓A（苔）
+Window A (Moss, Shutter)|窓A（苔・雨戸）
+Window B|窓B
+Window B (Shutter)|窓B（雨戸）
+Window B (Moss)|窓B（苔）
+Window B (Moss, Shutter)|窓B（苔・雨戸）
+Window A|窓A
+Window A (Shutter)|窓A（雨戸）
+Window A (Moss)|窓A（苔）
+Window A (Moss, Shutter)|窓A（苔・雨戸）
+Window B|窓B
+Window B (Shutter)|窓B（雨戸）
+Window B (Moss)|窓B（苔）
+Window B (Moss, Shutter)|窓B（苔・雨戸）
+Outside Entrance|外観用入口
+Outside Entrance (Moss)|外観用入口（苔）
+Bundle of Firewood A|薪の束A
+Bundle of Firewood A|薪の束A
+Bundle of Firewood B|薪の束B
+Bundle of Firewood B|薪の束B
+Chimney|煙突
+Chimney (Moss)|煙突（苔）
+Outside Entrance|外観用入口
+Outside Entrance (Moss)|外観用入口（苔）
+Bundle of Firewood A|薪の束A
+Bundle of Firewood A|薪の束A
+Bundle of Firewood B|薪の束B
+Bundle of Firewood B|薪の束B
+Chimney|煙突
+Chimney (Moss)|煙突（苔）
+|
+Tree House|ツリーハウス
+Tree House|ツリーハウス
+Tree House|ツリーハウス
+Tree House|ツリーハウス
+|
+Chimney (Tree House)|煙突（ツリーハウス）
+Chimney (Tree House)|煙突（ツリーハウス）
+Tree House|ツリーハウス
+Tree House|ツリーハウス
+Tree House|ツリーハウス
+Tree House|ツリーハウス
+Tree House|ツリーハウス
+Tree House|ツリーハウス
+Chimney (Tree House)|煙突（ツリーハウス）
+Chimney (Tree House)|煙突（ツリーハウス）
+Tree House|ツリーハウス
+Tree House|ツリーハウス
+Tree House|ツリーハウス
+Tree House|ツリーハウス
+Tree House|ツリーハウス
+Tree House|ツリーハウス
+Skylight (Tree House)|天窓（ツリーハウス）
+Skylight (Tree House)|天窓（ツリーハウス）
+Tree House|ツリーハウス
+Tree House|ツリーハウス
+Tree House|ツリーハウス
+Tree House|ツリーハウス
+Tree House|ツリーハウス
+Tree House|ツリーハウス
+Tree House|ツリーハウス
+Tree House (Not Ladder)|ツリーハウス（はしごなし）
+Tree House|ツリーハウス
+Tree House|ツリーハウス
+Tree House|ツリーハウス
+Tree House|ツリーハウス
+Tree House|ツリーハウス
+Tree House|ツリーハウス
+Tree House|ツリーハウス
+Tree House (Not Ladder)|ツリーハウス（はしごなし）
+Tree House|ツリーハウス
+Tree House|ツリーハウス
+Tree House|ツリーハウス
+Tree House|ツリーハウス
+Tree House|ツリーハウス
+Tree House|ツリーハウス
+Shadow (Tree House)|影（ツリーハウス）
+Tree House (Not Ladder)|ツリーハウス（はしごなし）
+Tree House|ツリーハウス
+Tree House|ツリーハウス
+Ladder (Tree House)|はしご（ツリーハウス）
+Tree House|ツリーハウス
+Tree House|ツリーハウス
+Tree House|ツリーハウス
+Shadow (Tree House)|影（ツリーハウス）
+Tree House (Not Ladder)|ツリーハウス（はしごなし）
+Shadow (Tree House)|影（ツリーハウス）
+Tree House|ツリーハウス
+Ladder (Tree House)|はしご（ツリーハウス）
+Tree House|ツリーハウス
+Tree House|ツリーハウス
+Shadow (Tree House)|影（ツリーハウス）
+Shadow (Tree House)|影（ツリーハウス）
+Tree House (Not Ladder)|ツリーハウス（はしごなし）
+|
+Tree House|ツリーハウス
+Ladder (Tree House)|はしご（ツリーハウス）
+Tree House|ツリーハウス
+Tree House|ツリーハウス
+Shadow (Tree House)|影（ツリーハウス）
+|
+Tree House (Not Ladder)|ツリーハウス（はしごなし）
+Stacked Crates C|積まれた木箱C
+Stacked Crates C|積まれた木箱C
+Logs A|丸太A
+Logs A|丸太A
+Logs A|丸太A
+Logs A|丸太A
+Logs B|丸太B
+Logs C|丸太C
+Stacked Crates C|積まれた木箱C
+Stacked Crates C|積まれた木箱C
+Logs A|丸太A
+Logs A|丸太A
+Logs A|丸太A
+Logs A|丸太A
+Logs C|丸太C
+Logs C|丸太C
+Room Entrance|室内用入口
+Window C|窓C
+Windows D|窓D
+Window Light A (Window C)|窓の光A（窓C）
+Window Light (Left)|窓の光（左）
+Window Light (Right)|窓の光（右）
+Bear Rug|熊の敷物
+Bear Rug|熊の敷物
+Room Entrance|室内用入口
+Window C|窓C
+Windows D|窓D
+Window Light B (Window D)|窓の光B（窓D）
+Window Light (Left)|窓の光（左）
+Window Light (Right)|窓の光（右）
+Bear Rug|熊の敷物
+Bear Rug|熊の敷物
+Entrance Light|入口の光
+|
+Stacked Sacks A|積まれた麻袋A
+Stacked Sacks A|積まれた麻袋A
+Stacked Sacks B|積まれた麻袋B
+Sack|麻袋
+Baggage A|荷物A
+Baggage B|荷物B
+Barrel A|樽A
+Barrel B|樽B
+Stacked Sacks A|積まれた麻袋A
+Stacked Sacks A|積まれた麻袋A
+Stacked Sacks B|積まれた麻袋B
+Mattress|マットレス
+Baggage C|荷物C
+Baggage D|荷物D
+Pot A|壺A
+Pot B|壺B
+Stacked Crates A|積まれた木箱A
+Stacked Crates B|積まれた木箱B
+Stacked Crates B|積まれた木箱B
+Mattress|マットレス
+Baggage C|荷物C
+Baggage D|荷物D
+Simple Shelf|簡易棚
+Simple Shelf (Jars)|簡易棚（瓶）
+Stacked Crates A|積まれた木箱A
+Stacked Crates B|積まれた木箱B
+Stacked Crates B|積まれた木箱B
+Crate|木箱
+Stool|椅子
+Cushion|座布団
+Top board A (Books)|天板A（本）
+Top board A|天板A
+Top board B|天板B
+Top board B|天板B
+Top board B (Boxes & Ropes)|天板B（箱と縄）
+Top board B (Boxes & Ropes)|天板B（箱と縄）
+Bed|ベッド
+Desk|机
+Bookshelf A|本棚A
+Sundries Shelf A|雑貨棚A
+Bookshelf B|本棚B
+Bookshelf B|本棚B
+Sundries Shelf B|雑貨棚B
+Sundries Shelf B|雑貨棚B
+Bed|ベッド
+Duvet|掛け布団
+Bookshelf A|本棚A
+Sundries Shelf A|雑貨棚A
+Bookshelf B|本棚B
+Bookshelf B|本棚B
+Sundries Shelf B|雑貨棚B
+Sundries Shelf B|雑貨棚B
+Bed|ベッド
+Duvet|掛け布団
+Firewood|薪
+Bundle of Firewood B|薪の束B
+Stretcher (Leather) A|なめし革の張枠A
+Log Table B|丸太のテーブルB
+Log Table C|丸太のテーブルC
+Log Table A|丸太のテーブルA
+Ropes & Bones|縄と骨
+Deer Bone|鹿の骨
+Fireplace|暖炉
+Fireplace|暖炉
+Stretcher (Leather) A|なめし革の張枠A
+Log Table D|丸太のテーブルD
+Table A|テーブルA
+Table B|テーブルB
+Table B|テーブルB
+Table B|テーブルB
+Fireplace|暖炉
+Fireplace|暖炉
+Stretcher (Leather) B|なめし革の張枠B
+Log Table|丸太のテーブル
+Table A|テーブルA
+Table B|テーブルB
+Table B|テーブルB
+Table B|テーブルB
+Fireplace|暖炉
+Fireplace|暖炉
+Stretcher (Leather) B|なめし革の張枠B
+Log Stool|丸太のイス
+Table A|テーブルA
+Table B|テーブルB
+Table B|テーブルB
+Table B|テーブルB
+Ladder A|はしごA
+Ladder A (Down)|はしごA（下り）
+Ladder B|はしごB
+Ladder B (Down)|はしごB（下り）
+Saws|のこぎり
+Sack|袋
+Tools|用具一式
+Tools|用具一式
+Ladder A|はしごA
+Ladder A (Down, Lid)|はしごA（下り・蓋）
+Ladder B|はしごB
+Ladder B (Down, Lid)|はしごB（下り・蓋）
+Stairs A (Up)|上り階段A
+Stairs B (Up)|上り階段B
+Hood Cloak|フードマント
+Fur Vest|毛皮のベスト
+Ladder A|はしごA
+Ladder A (Down, Not Ladder)|はしごA（下り・はしごなし）
+Ladder B|はしごB
+Ladder B (Down, Not Ladder)|はしごB（下り・はしごなし）
+Stairs A (Down)|下り階段A
+Stairs B (Down)|下り階段B
+Hood Cloak|フードマント
+Fur Vest|毛皮のベスト

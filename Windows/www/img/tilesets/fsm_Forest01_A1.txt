@@ -1,0 +1,16 @@
+﻿Water A (Meadow)|水場A（草地）
+Rock (Can Walk)|歩ける岩
+Swamp Grass A|水草A
+Swamp Grass B|水草B
+Water B (Meadow)|水場B（草地）
+Waterfall (Whole Surface)|滝（全面）
+Water B (Whole Surface)|水場B（全面）
+Waterfall (Boulder, Whole Surface)|滝（玉石・全面）
+Water A (Whole Surface)|水場A（全面）
+Waterfall|滝
+Water A (River Beach)|水場A（河原）
+Waterfall (Boulder)|滝（玉石）
+Water C|水場C
+|
+|
+|

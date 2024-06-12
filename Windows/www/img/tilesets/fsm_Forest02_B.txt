@@ -1,0 +1,256 @@
+﻿Transparent|透明
+Grass A|草A
+Mushrooms A|キノコA
+Mushrooms B|キノコB
+Carnivorous Plant|食虫植物
+Mushrooms C|キノコC
+Mushrooms D|キノコD
+Mushrooms E|キノコE
+Grass B|草B
+Grass C|草C
+Tree Branch|木の枝
+Grass D|草D
+Grass E|草E
+Grass E|草E
+Boulder C|岩C
+Flower|花
+Stump A|切り株A
+Stump B|切り株B
+Small Tree A|小さな木A
+Small Tree B|小さな木B
+Boulder A|岩A
+Boulder B|岩B
+Boulder C|岩C
+Barricade A (V)|バリケードA（縦）
+Sign A|立て札A
+Sign B|立て札B
+Sign C|立て札C
+Sign D|立て札D
+Sign E|立て札E
+Sign F|立て札F
+Barricade A (H)|バリケードA（横）
+Barricade A (V)|バリケードA（縦）
+Fallen Log A (V)|倒木A（縦）
+Fallen Log B (H)|倒木B（横）
+Fallen Log B (H)|倒木B（横）
+Fallen Log B (V)|倒木B（縦）
+Dead Tree|枯れ木
+Tree A|木A
+Tree B|木B
+Tree B|木B
+Fallen Log A (V)|倒木A（縦）
+Fallen Log A (H)|倒木A（横）
+Fallen Log A (H)|倒木A（横）
+Fallen Log B (V)|倒木B（縦）
+Dead Tree|枯れ木
+Tree A|木A
+Tree B|木B
+Tree B|木B
+Ledge A (Top)|段差A（上端）
+Ledge A (Top)|段差A（上端）
+Ledge A (Top)|段差A（上端）
+Shadow|影
+Boulder D|岩D
+Ledge B (Top)|段差B（上端）
+Ledge B (Top)|段差B（上端）
+Ledge B (Top)|段差B（上端）
+Cliff (Bottom)|崖（下端）
+Cliff (Bottom)|崖（下端）
+Cliff (Bottom)|崖（下端）
+Shadow (Impassable)|影（通行不可）
+Boulder E|岩E
+Ledge A (Top, Shadow)|段差A（上端・影）
+Ledge A (Top, Shadow)|段差A（上端・影）
+Ledge A (Top, Shadow)|段差A（上端・影）
+|
+Cliff (Bottom, Shadow, Center)|崖（下端・影・中央）
+Cliff (Bottom, Shadow, Right)|崖（下端・影・右）
+Shadow|影
+Shadow|影
+Ledge B (Top, Shadow)|段差B（上端・影）
+Ledge B (Top, Shadow)|段差B（上端・影）
+Ledge B (Top, Shadow)|段差B（上端・影）
+Stairs A|階段A
+Stairs A|階段A
+Stairs A|階段A
+Stairs B|階段B
+Shadow (Stairs B)|階段の影
+Cliff (Ledge A, Bottom, Height 1)|崖（段差A・下端・高さ1マス）
+Cliff (Ledge A, Bottom, Height 1)|崖（段差A・下端・高さ1マス）
+Cliff (Ledge A, Bottom, Height 1)|崖（段差A・下端・高さ1マス）
+Stairs A (Bottom)|階段A（下端）
+Stairs A (Bottom)|階段A（下端）
+Stairs A (Bottom)|階段A（下端）
+Stairs B (Bottom)|階段B（下端）
+Shadow (Stairs B)|階段の影
+Little Ledge A (Myriad Roots)|低い段差A（無数の根）
+Little Ledge A (Myriad Roots)|低い段差A（無数の根）
+Little Ledge A (Myriad Roots)|低い段差A（無数の根）
+Cliff (Ledge A)|崖（段差A）
+Cliff (Ledge A)|崖（段差A）
+Cliff (Ledge A)|崖（段差A）
+Cliff (Ledge A, Shadow, Center)|崖（段差A・影・中央）
+Cliff (Ledge A, Shadow, Right)|崖（段差A・影・右）
+Little Ledge A (Myriad Roots)|低い段差A（無数の根）
+|
+Little Ledge A (Myriad Roots)|低い段差A（無数の根）
+Cliff (Ledge A)|崖（段差A）
+Cliff (Ledge A)|崖（段差A）
+Cliff (Ledge A)|崖（段差A）
+Cliff (Ledge A, Shadow, Center)|崖（段差A・影・中央）
+Cliff (Ledge A, Shadow, Right)|崖（段差A・影・右）
+Little Ledge A (Myriad Roots)|低い段差A（無数の根）
+Little Ledge A (Myriad Roots)|低い段差A（無数の根）
+Little Ledge A (Myriad Roots)|低い段差A（無数の根）
+Slope A (Ledge A)|坂A（段差A）
+Slope A (Ledge A)|坂A（段差A）
+Slope A (Ledge A)|坂A（段差A）
+Slope B (Ledge A)|坂B（段差A）
+Slope C (Ledge B)|坂C（段差B）
+Slope C (Ledge B)|坂C（段差B）
+Slope C (Ledge B)|坂C（段差B）
+Slope D (Ledge B)|坂D（段差B）
+Slope A (Ledge A)|坂A（段差A）
+Slope A (Ledge A)|坂A（段差A）
+Slope A (Ledge A)|坂A（段差A）
+Slope B (Ledge A)|坂B（段差A）
+Slope C (Ledge B)|坂C（段差B）
+Slope C (Ledge B)|坂C（段差B）
+Slope C (Ledge B)|坂C（段差B）
+Slope D (Ledge B)|坂D（段差B）
+Slope A (Ledge A)|坂A（段差A）
+Slope A (Ledge A)|坂A（段差A）
+Slope A (Ledge A)|坂A（段差A）
+Slope B (Ledge A)|坂B（段差A）
+Slope C (Ledge B)|坂C（段差B）
+Slope C (Ledge B)|坂C（段差B）
+Slope C (Ledge B)|坂C（段差B）
+Slope D (Ledge B)|坂D（段差B）
+Wall Vines A (Left)|壁のツタA（左）
+Wall Vines A (Center)|壁のツタA（中央）
+Wall Vines A (Right)|壁のツタA（右）
+Wall Vines B|壁のツタB
+Cave Entrance A (Ledge B)|洞窟入口A（段差B）
+Cave Entrance A (Ledge B)|洞窟入口A（段差B）
+Cave Entrance A (Ledge B)|洞窟入口A（段差B）
+Cave Entrance B (Ledge B)|洞窟入口A（段差B）
+Wall Vines A (Left)|壁のツタA（左）
+Wall Vines A (Center)|壁のツタA（中央）
+Wall Vines A (Right)|壁のツタA（右）
+Wall Vines B|壁のツタB
+Cave Entrance A (Ledge A)|洞窟入口A（段差A）
+Cave Entrance A (Ledge A)|洞窟入口A（段差A）
+Cave Entrance A (Ledge A)|洞窟入口A（段差A）
+Cave Entrance B (Ledge A)|洞窟入口A（段差A）
+Wall Vines A (Left)|壁のツタA（左）
+Wall Vines A (Center)|壁のツタA（中央）
+Wall Vines A (Right)|壁のツタA（右）
+Wall Vines B|壁のツタB
+Cave Entrance A|洞窟入口A
+Cave Entrance A|洞窟入口A
+Cave Entrance A|洞窟入口A
+Cave Entrance B|洞窟入口B
+Grass A (Wall Side)|壁際の草A
+Grass B (Wall Side)|壁際の草B
+Grass B (Wall Side)|壁際の草B
+Boulder A (Wall Side)|壁際の岩A
+Boulder B (Wall Side)|壁際の岩B
+Boulder B (Wall Side)|壁際の岩B
+Wall Grass A|壁の草A
+Wall Grass B|壁の草B
+Grass A (Wall Side)|壁際の草A
+Grass B (Wall Side)|壁際の草B
+Grass B (Wall Side)|壁際の草B
+Boulder A (Wall Side)|壁際の岩A
+Boulder B (Wall Side)|壁際の岩B
+Boulder B (Wall Side)|壁際の岩B
+Wall Grass A|壁の草A
+Wall Grass B|壁の草B
+Vines|ツタ
+Rope|ロープ
+Cliff (Water Edge)|水際の崖
+Cliff (Water Edge)|水際の崖
+Cliff (Water Edge)|水際の崖
+Cliff (Water Edge, Ledge A, Height 1)|水際の崖（段差A・高さ1マス）
+Cliff (Water Edge, Ledge A, Height 1)|水際の崖（段差A・高さ1マス）
+Cliff (Water Edge, Ledge A, Height 1)|水際の崖（段差A・高さ1マス）
+Vines|ツタ
+Rope|ロープ
+Cliff (Water Edge)|水際の崖
+Cliff (Water Edge)|水際の崖
+Cliff (Water Edge)|水際の崖
+Cliff (Water Edge, Ledge A, Height 1)|水際の崖（段差A・高さ1マス）
+Cliff (Water Edge, Ledge A, Height 1)|水際の崖（段差A・高さ1マス）
+Cliff (Water Edge, Ledge A, Height 1)|水際の崖（段差A・高さ1マス）
+Vines|ツタ
+Rope|ロープ
+Swamp Grass A|水草A
+Swamp Grass B|水草B
+Swamp Grass C|水草C
+Dead Tree (Water)|水場の枯れ木
+Cliff (Water Edge, Ledge A, Shadow, Center, Height 1)|水際の崖（段差A・影・中央・高さ1マス）
+Cliff (Water Edge, Ledge A, Shadow, Center, Height 1)|水際の崖（段差A・影・中央・高さ1マス）
+Vines (Down)|ツタ（下り）
+Rope (Down)|ロープ（下り）
+Floating Island|浮島
+Boulder A (Water)|水場の岩A
+Tree Branch (Water)|水底の枝
+Tree (Water, Bottom A)|水場の木（下端A）
+Cliff (Water Edge, Ledge A, Shadow, Center, Height 1)|水際の崖（段差A・影・中央・高さ1マス）
+Cliff (Water Edge, Ledge A, Shadow, Center, Height 1)|水際の崖（段差A・影・中央・高さ1マス）
+Stacked Crates A (Upper left)|積まれた木箱A（左上）
+Stacked Crates A (Upper right)|積まれた木箱A（右上）
+Stacked Crates B|積まれた木箱B
+Stacked Crates B|積まれた木箱B
+Boulder B (Water)|水場の岩B
+Tree (Water, Bottom B)|水場の木（下端B）
+Tree (Water)|水場の木
+Dead Tree (Water)|水場の枯れ木
+Stacked Crates A (Lower left)|積まれた木箱A（左下）
+Stacked Crates A (Lower right)|積まれた木箱A（右下）
+Stacked Crates B|積まれた木箱B
+Stacked Crates B|積まれた木箱B
+Crate A|木箱A
+Tree (Water, Bottom C)|水場の木（下端C）
+Tree (Water)|水場の木
+Dead Tree (Water)|水場の枯れ木
+Wood Bridge (V)|木の橋（縦）
+Wood Bridge (H)|木の橋（横）
+Wood Bridge (H)|木の橋（横）
+Wood Bridge (H)|木の橋（横）
+Crate B|木箱B
+Barricade B|バリケードB
+Light (Left Side)|左からの光
+Light (Right Side)|右からの光
+Wood Bridge (V)|木の橋（縦）
+Wood Bridge (H, Broken)|壊れた木の橋（横）
+Wood Bridge (H, Broken)|壊れた木の橋（横）
+Light A (Ground)|地面の光A
+Light A (Ground)|地面の光A
+Light A (Ground)|地面の光A
+Light (Left Side)|左からの光
+Light (Right Side)|右からの光
+Wood Bridge (V)|木の橋（縦）
+Barrel A|樽A
+Barrel B|樽B
+Light B (Ground)|地面の光B
+Light B (Ground)|地面の光B
+Light B (Ground)|地面の光B
+Light C (Ground, Myriad Roots)|地面の光C（無数の根）
+Light D (Ground, Myriad Roots)|地面の光D（無数の根）
+Wood Bridge (V, Broken)|壊れた木の橋（縦）
+Light E (Ground, Myriad Roots)|地面の光E（無数の根）
+Light F (Ground, Myriad Roots)|地面の光F（無数の根）
+Light A (Ground, Myriad Roots)|地面の光A（無数の根）
+Light A (Ground, Myriad Roots)|地面の光A（無数の根）
+Light A (Ground, Myriad Roots)|地面の光A（無数の根）
+Light C (Ground, Myriad Roots)|地面の光C（無数の根）
+Light D (Ground, Myriad Roots)|地面の光D（無数の根）
+Wood Bridge (V, Broken)|壊れた木の橋（縦）
+Light G (Ground, Myriad Roots)|地面の光G（無数の根）
+Light H (Ground, Myriad Roots)|地面の光H（無数の根）
+Light B (Ground, Myriad Roots)|地面の光B（無数の根）
+Light B (Ground, Myriad Roots)|地面の光B（無数の根）
+Light B (Ground, Myriad Roots)|地面の光B（無数の根）
+Light C (Ground, Myriad Roots)|地面の光C（無数の根）
+Light D (Ground, Myriad Roots)|地面の光D（無数の根）

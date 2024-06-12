@@ -1,0 +1,128 @@
+﻿Darkness|暗闇
+Light|光
+Cobblestones A|石畳A
+Cobblestones B|石畳B
+Cobblestones C|石畳C
+Cobblestones D|石畳D
+Cobblestones E|石畳E
+Relief Floor Tile|レリーフ床
+Transparent|透明
+Ground B|床B
+Cobblestones A (Ruins)|石畳A（廃墟）
+Cobblestones B (Ruins)|石畳B（廃墟）
+Cobblestones C (Ruins)|石畳C（廃墟）
+Cobblestones D (Ruins)|石畳D（廃墟）
+Cobblestones E (Ruins)|石畳E（廃墟）
+Relief Floor Tile (Ruins)|レリーフ床（廃墟）
+Ledge A|段差A
+Ground A|床A
+Ledge A|段差A
+Ledge A|段差A
+Ledge A|段差A
+Wall A|壁A
+Wall A|壁A
+Wall A|壁A
+Ledge A|段差A
+Ledge A|段差A
+Ledge A|段差A
+Ledge A|段差A
+Ledge A|段差A
+Wall A|壁A
+Wall A|壁A
+Wall A|壁A
+Cliff|崖
+Cliff|崖
+Cliff|崖
+Ledge A (Shadow, Center)|段差A（影・中央）
+Ledge A (Shadow, Right)|段差A（影・右）
+Hole C|穴C
+Wall A (Shadow, Center)|壁A（影・中央）
+Wall A (Shadow, Right)|壁A（影・右）
+Cliff|崖
+Cliff|崖
+Cliff|崖
+Ledge B|段差B
+Ground A|床A
+Ledge B|段差B
+Wall A|壁A
+Wall A|壁A
+Cliff Decoration A|崖装飾A
+Cliff Decoration B|崖装飾B
+Cliff Decoration B|崖装飾B
+Ledge B|段差B
+Ledge B|段差B
+Ledge B|段差B
+Wall A|壁A
+Wall A|壁A
+Cliff Decoration C|崖装飾C
+Cliff Decoration B|崖装飾B
+Cliff Decoration B|崖装飾B
+Cliff Decoration D|崖装飾D
+Ledge B (Shadow, Center)|段差B（影・中央）
+Ledge B (Shadow, Right)|段差B（影・右）
+Ledge B|段差B
+Ledge B|段差B
+Cliff Decoration E|崖装飾E
+Cliff Decoration F|崖装飾F
+Cliff Decoration F|崖装飾F
+Cliff Decoration F|崖装飾F
+Ledge B (Autotiles, Shadow, Center)|段差B（オートタイル用・影・中央）
+Ledge B (Autotiles, Shadow, Right)|段差B（オートタイル用・影・右）
+Ledge B|段差B
+Ledge B|段差B
+Cliff Decoration E|崖装飾E
+Cliff Decoration F|崖装飾F
+Cliff Decoration F|崖装飾F
+Cliff Decoration F|崖装飾F
+Cliff Decoration G|崖装飾G
+Cliff Decoration H|崖装飾H
+Cliff (Ledge B, Left)|崖（段差B・左）
+Cliff (Ledge B, Right)|崖（段差B・右）
+Stairs A (Ledge A, Left)|階段A（段差A・左）
+Stairs A (Ledge A, Center)|階段A（段差A・中央）
+Stairs A (Ledge A, Right)|階段A（段差A・右）
+Stairs B (Ledge A)|階段B（段差A）
+Cliff Decoration I|崖装飾I
+Cliff Decoration J|崖装飾J
+Cliff Decoration K|崖装飾K
+Cliff Decoration L|崖装飾L
+Stairs A (Ledge A, Left)|階段A（段差A・左）
+Stairs A (Ledge A, Center)|階段A（段差A・中央）
+Stairs A (Ledge A, Right)|階段A（段差A・右）
+Stairs B (Ledge A)|階段B（段差A）
+Cliff Decoration M|崖装飾M
+Cliff Decoration N|崖装飾N
+Cliff Decoration O|崖装飾O
+Cliff Decoration P|崖装飾P
+Stairs A (Ledge A, Left)|階段A（段差A・左）
+Stairs A (Ledge A, Center)|階段A（段差A・中央）
+Stairs A (Ledge A, Right)|階段A（段差A・右）
+Stairs B (Ledge A)|階段B（段差A）
+Cliff Decoration M|崖装飾M
+Cliff Decoration N|崖装飾N
+Cliff Decoration O|崖装飾O
+Ground C|床C
+Watchtower Floor|やぐらの床
+Watchtower Floor|やぐらの床
+Watchtower Floor|やぐらの床
+Dark Ground A|濃い床A
+Dark Ground A|濃い床A
+Dark Ground A|濃い床A
+Dark Ground A|濃い床A
+Dark Ground A|濃い床A
+Watchtower Floor|やぐらの床
+Watchtower Floor|やぐらの床
+Watchtower Floor|やぐらの床
+Dark Ground A|濃い床A
+Dark Ground A|濃い床A
+Dark Ground A|濃い床A
+Dark Ground A|濃い床A
+Dark Ground A|濃い床A
+Watchtower Floor|やぐらの床
+Watchtower Floor|やぐらの床
+Watchtower Floor|やぐらの床
+Watchtower Floor|やぐらの床
+Watchtower Floor|やぐらの床
+Watchtower Floor|やぐらの床
+Dark Ground A|濃い床A
+Dark Ground A|濃い床A

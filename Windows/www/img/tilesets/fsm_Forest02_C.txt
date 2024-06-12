@@ -1,0 +1,256 @@
+﻿Tree Trunk A|木の幹A
+Tree Trunk B|木の幹B
+Tree Trunk C|木の幹C
+Leaf A|木の葉A
+Leaf A|木の葉A
+Leaf A|木の葉A
+Leaf|木の葉
+Leaf|木の葉
+Tree Trunk A|木の幹A
+Tree Trunk B|木の幹B
+Tree Trunk C|木の幹C
+Leaf A|木の葉A
+|
+Leaf A|木の葉A
+Leaf A|木の葉A
+Leaf A|木の葉A
+Tree Trunk A|木の幹A
+Tree Trunk B|木の幹B
+Tree Trunk A|木の幹A
+Leaf A|木の葉A
+Leaf A|木の葉A
+Leaf A|木の葉A
+|
+|
+Large Tree|大きな木
+Large Tree|大きな木
+Large Tree|大きな木
+Leaf B|木の葉B
+Leaf B|木の葉B
+Leaf B|木の葉B
+Leaf|木の葉
+Leaf|木の葉
+Large Tree|大きな木
+Large Tree|大きな木
+Large Tree|大きな木
+Leaf B|木の葉B
+|
+Leaf B|木の葉B
+Leaf B|木の葉B
+Leaf B|木の葉B
+Large Tree|大きな木
+Large Tree|大きな木
+Large Tree|大きな木
+Leaf B|木の葉B
+|
+Leaf B|木の葉B
+Shadow (Leaf B)|影（木の葉B）
+Shadow (Leaf B)|影（木の葉B）
+Large Tree|大きな木
+Large Tree|大きな木
+Large Tree|大きな木
+Leaf B|木の葉B
+Leaf B|木の葉B
+Leaf B|木の葉B
+Leaf|木の葉
+Leaf|木の葉
+Large Tree|大きな木
+Large Tree|大きな木
+Large Tree|大きな木
+Shadow (Leaf B)|影（木の葉B）
+Shadow (Leaf B)|影（木の葉B）
+Shadow (Leaf B)|影（木の葉B）
+Leaf B|木の葉B
+Leaf B|木の葉B
+Leaf C|木の葉C
+Leaf C|木の葉C
+Leaf C|木の葉C
+Leaf C|木の葉C
+Leaf C|木の葉C
+Leaf|木の葉
+Leaf B|木の葉B
+Leaf B|木の葉B
+Leaf C|木の葉C
+|
+Leaf C|木の葉C
+Leaf C|木の葉C
+Leaf C|木の葉C
+Leaf|木の葉
+Leaf|木の葉
+Leaf|木の葉
+Leaf C|木の葉C
+Leaf C|木の葉C
+Leaf C|木の葉C
+Leaf C|木の葉C
+Leaf C|木の葉C
+Leaf A|木の葉A
+Leaf A|木の葉A
+Leaf A|木の葉A
+Large Dead Tree|大きな枯れ木
+Large Dead Tree|大きな枯れ木
+Large Dead Tree|大きな枯れ木
+Leaf C|木の葉C
+Leaf C|木の葉C
+Leaf B|木の葉B
+Leaf B|木の葉B
+Leaf B|木の葉B
+Large Dead Tree|大きな枯れ木
+Large Dead Tree|大きな枯れ木
+Large Dead Tree|大きな枯れ木
+Leaf|木の葉
+Leaf|木の葉
+Shadow (Leaf B)|影（木の葉B）
+Shadow (Leaf B)|影（木の葉B）
+Shadow (Leaf B)|影（木の葉B）
+Large Dead Tree|大きな枯れ木
+Large Dead Tree|大きな枯れ木
+Large Dead Tree|大きな枯れ木
+Forest (Sneak Through)|森（すり抜け）
+Forest (Sneak Through)|森（すり抜け）
+Forest (Sneak Through)|森（すり抜け）
+Leaf|木の葉
+Leaf|木の葉
+Large Dead Tree|大きな枯れ木
+Large Dead Tree|大きな枯れ木
+Large Dead Tree|大きな枯れ木
+Forest (Sneak Through)|森（すり抜け）
+Forest (Sneak Through)|森（すり抜け）
+Forest (Sneak Through)|森（すり抜け）
+Forest (Sneak Through)|森（すり抜け）
+Forest (Sneak Through)|森（すり抜け）
+Large Dead Tree|大きな枯れ木
+Large Dead Tree|大きな枯れ木
+Large Dead Tree|大きな枯れ木
+Forest (Sneak Through)|森（すり抜け）
+Forest (Sneak Through)|森（すり抜け）
+Forest (Sneak Through)|森（すり抜け）
+Forest (Sneak Through)|森（すり抜け）
+Forest (Sneak Through)|森（すり抜け）
+Glowing Grass|光る草
+Glowing Grass (Shine)|光る草（光）
+Glowing Mushroom A|光るキノコA
+Glowing Mushroom A (Shine)|光るキノコA（光）
+Glowing Flower|光る花
+Glowing Mushrooms B|光るキノコB
+Glowing Mushrooms C|光るキノコC
+Boulder D (Shine)|岩D（光）
+Glowing Grass|光る草
+Glowing Grass (Shine)|光る草（光）
+Glowing Mushroom A|光るキノコA
+Glowing Mushroom A (Shine)|光るキノコA（光）
+Glowing Flower (Shine)|光る花（光）
+Glowing Mushrooms B (Shine)|光るキノコB（光）
+Glowing Mushrooms C (Shine)|光るキノコC（光）
+Boulder E (Shine)|岩E（光）
+Forest|森
+Forest|森
+Forest|森
+Tree Trunk A (Joint)|木の幹A（接続用）
+Tree Trunk A (Joint)|木の幹A（接続用）
+Cave Entrance A (Wall Vines)|洞窟入口A（壁のツタ）
+Cave Entrance A (Wall Vines)|洞窟入口A（壁のツタ）
+Cave Entrance A (Wall Vines)|洞窟入口A（壁のツタ）
+Tree Trunk A (Myriad Roots)|木の幹A（無数の根）
+Tree Trunk A (Myriad Roots)|木の幹A（無数の根）
+Tree Trunk A (Myriad Roots)|木の幹A（無数の根）
+Tree Trunk A (Joint)|木の幹A（接続用）
+Tree Trunk A (Joint)|木の幹A（接続用）
+Cave Entrance B (Wall Vines)|洞窟入口B（壁のツタ）
+|
+|
+Tree Trunk A (Myriad Roots, Bottom A)|木の幹A（無数の根・下端A）
+Tree Trunk A (Myriad Roots, Bottom A)|木の幹A（無数の根・下端A）
+Tree Trunk A (Myriad Roots, Bottom A)|木の幹A（無数の根・下端A）
+Tree Trunk A (Joint)|木の幹A（接続用）
+Tree Trunk A (Joint)|木の幹A（接続用）
+|
+|
+|
+Tree Trunk A (Myriad Roots, Bottom B)|木の幹A（無数の根・下端B）
+Tree Trunk A (Myriad Roots, Bottom B)|木の幹A（無数の根・下端B）
+Tree Trunk A (Myriad Roots, Bottom B)|木の幹A（無数の根・下端B）
+|
+|
+|
+|
+|
+Tree Trunk B (Moss, Joint)|木の幹B（苔・接続用）
+Tree Trunk B (Moss, Joint)|木の幹B（苔・接続用）
+Tree Trunk B (Myriad Roots, Joint)|木の幹B（無数の根・接続用）
+Tree Trunk B (Myriad Roots, Joint)|木の幹B（無数の根・接続用）
+Tree Trunk B (Meadow, Joint)|木の幹B（草地・接続用）
+Tree Trunk B (Meadow, Joint)|木の幹B（草地・接続用）
+|
+|
+Boulder F (Moss)|岩F（苔）
+Boulder G (Moss)|岩G（苔）
+Ledge C (Top)|段差C（上端）
+Ledge C (Top)|段差C（上端）
+Ledge C (Top)|段差C（上端）
+Ledge C (Top, Shadow)|段差C（上端・影）
+Ledge C (Top, Shadow)|段差C（上端・影）
+Ledge C (Top, Shadow)|段差C（上端・影）
+Broken Walls A (Stone Wall A)|壊れた壁A（石の壁A）
+Broken Walls B (Stone Wall B)|壊れた壁B（石の壁B）
+Broken Walls C (Stone Wall A)|壊れた壁C（石の壁A）
+Broken Walls D (Stone Wall A)|壊れた壁D（石の壁A）
+Broken Walls E (Stone Wall B)|壊れた壁E（石の壁B）
+Broken Walls F (Stone Wall B)|壊れた壁F（石の壁B）
+Broken Walls G (Stone Wall A)|壊れた壁G（石の壁A）
+Broken Walls H (Stone Wall B)|壊れた壁H（石の壁B）
+Broken Walls A (Stone Wall A, Height Over 2)|壊れた壁A（石の壁A・高さ2マス以上）
+Broken Walls B (Stone Wall B, Height Over 2)|壊れた壁B（石の壁B・高さ2マス以上）
+Broken Walls C (Stone Wall A, Height Over 2)|壊れた壁C（石の壁A・高さ2マス以上）
+Broken Walls D (Stone Wall A, Height Over 2)|壊れた壁D（石の壁A・高さ2マス以上）
+Broken Walls E (Stone Wall B, Height Over 2)|壊れた壁E（石の壁B・高さ2マス以上）
+Broken Walls F (Stone Wall B, Height Over 2)|壊れた壁F（石の壁B・高さ2マス以上）
+Broken Walls I (Stone Wall A)|壊れた壁I（石の壁A）
+Broken Walls J (Stone Wall B)|壊れた壁J（石の壁B）
+Broken Walls A (Stone Wall A, Height 1)|壊れた壁A（石の壁A・高さ1マス）
+Broken Walls B (Stone Wall B, Height 1)|壊れた壁B（石の壁B・高さ1マス）
+Broken Walls C (Stone Wall A, Height Over 2)|壊れた壁C（石の壁A・高さ2マス以上）
+Broken Walls D (Stone Wall A, Height Over 2)|壊れた壁D（石の壁A・高さ2マス以上）
+Broken Walls E (Stone Wall B, Height Over 2)|壊れた壁E（石の壁B・高さ2マス以上）
+Broken Walls F (Stone Wall B, Height Over 2)|壊れた壁F（石の壁B・高さ2マス以上）
+Broken Walls I (Stone Wall A, Height Over 2)|壊れた壁I（石の壁A・高さ2マス以上）
+Broken Walls J (Stone Wall B, Height Over 2)|壊れた壁J（石の壁B・高さ2マス以上）
+Decorative Pillar A (Stone Wall A)|装飾柱A（石の壁A）
+Decorative Pillar B (Stone Wall B)|装飾柱B（石の壁B）
+Broken Walls C (Stone Wall A, Height 1)|壊れた壁C（石の壁A・高さ1マス）
+Broken Walls D (Stone Wall A, Height 1)|壊れた壁D（石の壁A・高さ1マス）
+Broken Walls E (Stone Wall B, Height 1)|壊れた壁E（石の壁B・高さ1マス）
+Broken Walls F (Stone Wall B, Height 1)|壊れた壁F（石の壁B・高さ1マス）
+Broken Walls I (Stone Wall A, Height Over 2)|壊れた壁I（石の壁A・高さ2マス以上）
+Broken Walls J (Stone Wall B, Height Over 2)|壊れた壁J（石の壁B・高さ2マス以上）
+Decorative Pillar A (Stone Wall A)|装飾柱A（石の壁A）
+Decorative Pillar B (Stone Wall B)|装飾柱B（石の壁B）
+Stone Wall A (V, Impassable)|石の壁A（縦・通行不可）
+Stone Wall B (V, Impassable)|石の壁B（縦・通行不可）
+Stone Wall A (V)|石の壁A（縦）
+Stone Wall B (V)|石の壁B（縦）
+Broken Walls I (Stone Wall A, Height 1)|壊れた壁I（石の壁A・高さ1マス）
+Broken Walls J (Stone Wall B, Height 1)|壊れた壁J（石の壁B・高さ1マス）
+Decorative Pillar A (Stone Wall A)|装飾柱A（石の壁A）
+Decorative Pillar B (Stone Wall B)|装飾柱B（石の壁B）
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|

@@ -1,0 +1,32 @@
+﻿Ground A|床A
+Ground B|床B
+Ground C|床C
+Hole A|穴A
+Gravel A|砂利A
+Gravel B|砂利B
+Moss|苔
+Bush|茂み
+Dark Ground A|濃い床A
+Moss on Ground A|床の苔A
+Gravel Ground|砂利の床
+Coral Ground|珊瑚の床
+Little Ledge A|低い段差A
+Shallow Water|浅い水場
+Little Ledge B|低い段差B
+Dark Ground B|濃い床B
+Ground D|床D
+Ground E|床E
+Ground F|床F
+Ground G|床G
+Earth A|土砂A
+Earth B|土砂B
+Fencepost A|柵A
+Fencepost B|柵B
+Moss on Ground B|床の苔B
+Ground H|床H
+Ground I|床I
+Road A|道A
+Road B|道B
+Puddle|水たまり
+Poison Swamp|毒の沼
+Fencepost C|柵C
