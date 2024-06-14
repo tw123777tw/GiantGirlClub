@@ -1482,11 +1482,12 @@ AudioManager.updateBufferParameters = function(buffer, configVolume, audio) {
 };
 
 AudioManager.audioFileExt = function() {
+    return '.ogg';/*JYSDTR：不存在m4a资源。
     if (WebAudio.canPlayOgg() && !Utils.isMobileDevice()) {
         return '.ogg';
     } else {
         return '.m4a';
-    }
+    }*/
 };
 
 AudioManager.shouldUseHtml5Audio = function() {
