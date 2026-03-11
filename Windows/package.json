@@ -1,5 +1,5 @@
 {
-    "name": "巨研社 第二季",
+    "name": "",
     "main": "www/index.html",
     "js-flags": "--expose-gc",
     "window": {

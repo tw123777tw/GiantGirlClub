@@ -1,0 +1,68 @@
+
+借物表：
+https://seiga.nicovideo.jp/seiga/im5646893
+https://bowlroll.net/file/322335
+
+いらすとや
+https://www.irasutoya.com/
+
+LOGO：香岚
+
+测试：一般通过罪袋 wdy123321 凤凰与天使  風君  Hush 谭秀  流逝|尘封 孤鸿 
+
+音乐素材来源：
+https://musmus.main.jp/
+https://maou.audio/category/bgm/
+www.sougetsu-on.net/
+https://pocket-se.info/
+https://ontama-m.com/index.html
+https://mart.kitunebi.com/music.html
+https://amachamusic.chagasi.com/
+https://twinklecolor.jp/wmh/category/material/
+https://g-miya.net/wordpress/
+https://music-note.jp/
+
+音效素材来源：
+https://taira-komori.jpn.org/daily01cn.html
+https://soundeffect-lab.info/sound/button/
+
+哈基米音乐：约 德 尔 曼 波  作者：希灵empire
+
+插件使用：
+
+Galv's Message Busts
+作者:Galv - galvs-scripts.com
+
+ULDS 
+作者: taroxd
+
+YEP_RegionRestrictions
+YEP_FootstepSounds
+作者:Yanfly Engine Plugins
+http://yanfly.moe/yep
+
+MBS-MapZoom
+作者:Masked
+
+WASD KEY
+作者：村A
+
+SimpleVoice
+作者:triacontane
+
+TMNamePop
+作者:tomoaky (http://hikimoki.sakura.ne.jp/)
+
+Torigoya_Tween
+作者:ru_shalm
+
+MOG_Weather_EX
+MOG_CharacterMotion
+作者:Moghunter 
+https://atelierrgss.wordpress.com/
+
+MrLiu_CharaterZoom
+作者:MrLiu-过眼云烟
+
+Bgs_Sunlight
+作者:BallgameStudios.com
